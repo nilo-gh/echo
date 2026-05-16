@@ -7,16 +7,13 @@ POPOLAZIONE: ~4.000 (gnomi della roccia; umani, halfling, mezzelfi)
 
 # 🏚️ Hardbuckler
 
-> *"Questo posto è tutta un'unica grande viuzza!"*
-> — un ladro in fuga, senza riuscire a dileguarsi
-
 ![Hardbuckler — vista dall'alto](ALLEGATI/Hardbuckler%20vista%20dall%27alto.png)
+
+Un ladro in fuga di cui non ricordo il nome, senza riuscire a dileguarsi, disse: *"Questo posto è tutta un'unica grande viuzza!"* — e non aveva tutti i torti.
 
 Piccolo **villaggio** fortificato nei **Cuori Occidentali**, sulla Dusk Road tra Triel e Hill's Edge. Abitata quasi esclusivamente da **gnomi della roccia**, tappa preferita dei mercanti lungo la via. Oggi è cresciuta fino alle dimensioni di una **cittadina**, con un borgo esterno attorno alle mura originali.
 
 Il nome viene da **Hardbuckler**, un nano avventuriero che sconfisse in questo punto una banda di bugbear alla guida dei suoi *Hardbuckler's Hurlers*.
-
-*Quello che non dice il nome: qui non si fanno domande. Non su cosa portate, non su chi siete, non su dove andate. È la prima regola della città, e la più redditizia. La seconda regola — quella non ve la dicono.*
 
 ---
 

@@ -8,6 +8,8 @@ LUOGO:
 RAZZA: Umano
 ---
 
+*Non è il tipo che vi aspettereste di trovare a reggere il peso spirituale di una comunità in crisi. Eppure è esattamente il tipo di cui una comunità in crisi ha bisogno.*
+
 #### ⛪ Padre Johan Merriksonn — *Umano, mezza età*
 
 **Descrizione** — Basso e grassottello, pancia che tende in avanti. Barba bianca e ispida, mai del tutto curata. Naso rosso e bulboso, zigomi segnati da piccole vene violacee.

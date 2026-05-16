@@ -25,3 +25,5 @@ Si trova all'inizio del boschetto a Nord-Ovest di Welton, circondata dagli alber
 **Dettaglio** — Un piccolo scrigno sotto una panchina.
 
 **Sul tavolo** — Una mappa del Faerûn con una X sull'Isola di Sila.
+
+![Faerûn](ALLEGATI/Faerun.jpg)

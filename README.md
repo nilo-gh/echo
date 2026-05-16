@@ -1,14 +1,8 @@
 # ECHO
 
-*Udite.*
+Udite, udite, miei valorosi avventurieri!
 
-Non siete qui per trovare eroi. Non c'è una profezia che vi aspetta, nessun destino scritto su una pergamena ingiallita. C'è soltanto un mondo che si sta spaccando lungo le sue cuciture più antiche — e un gruppo di persone che si sono trovate nel posto sbagliato al momento sbagliato, e hanno deciso comunque di non andarsene.
-
-Questo è il registro di ciò che è accaduto. Nomi, luoghi, parole messe su carta perché qualcuno credeva che valesse la pena conservarle.
-
----
-
-## Dove guardare
+Qui trovate tutto ciò che la campagna ha messo nelle vostre mani — nomi, luoghi, documenti. Consultatelo, tenetelo a mente, e che vi sia utile.
 
 | Cartella | Contenuto |
 |----------|-----------|

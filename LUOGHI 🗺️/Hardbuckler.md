@@ -10,6 +10,8 @@ POPOLAZIONE: ~4.000 (gnomi della roccia; umani, halfling, mezzelfi)
 > *"Questo posto è tutta un'unica grande viuzza!"*
 > — un ladro in fuga, senza riuscire a dileguarsi
 
+![Hardbuckler — vista dall'alto](ALLEGATI/Hardbuckler%20vista%20dall%27alto.png)
+
 Piccolo **villaggio** fortificato nei **Cuori Occidentali**, sulla Dusk Road tra Triel e Hill's Edge. Abitata quasi esclusivamente da **gnomi della roccia**, tappa preferita dei mercanti lungo la via. Oggi è cresciuta fino alle dimensioni di una **cittadina**, con un borgo esterno attorno alle mura originali.
 
 Il nome viene da **Hardbuckler**, un nano avventuriero che sconfisse in questo punto una banda di bugbear alla guida dei suoi *Hardbuckler's Hurlers*.
@@ -31,6 +33,8 @@ Il nome viene da **Hardbuckler**, un nano avventuriero che sconfisse in questo p
 ---
 
 ## 🏘️ Struttura urbana
+
+![Hardbuckler — spaccato laterale](ALLEGATI/Hardbuckler%20spaccato.jpg)
 
 Una **via ad anello** corre lungo il lato interno delle mura, incrociata da **due larghi viali** a croce. Sotto ogni cottage: un sistema di cantine profonde tre o più livelli — botteghe, laboratori, taproom, magazzini.
 

@@ -9,6 +9,7 @@ Qui trovate tutto ciò che la campagna ha messo nelle vostre mani — nomi, luog
 | `PERSONAGGI 👥/` | Chi avete incontrato — alleati, nemici, e quelli nel mezzo |
 | `LUOGHI 🗺️/` | Dove siete stati, e cosa vi aspettava |
 | `SCRITTI 📚/` | Documenti, lettere, libri — voci di chi non può più parlare |
+| `INVENTARIO 📦/` | Oggetti trovati — armi, armature, curiosità magiche |
 
 📖 [Diario ✒️](Diario%20✒️.md) — la storia finora, arco per arco.
 

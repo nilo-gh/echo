@@ -2,14 +2,17 @@
 
 Questo repository contiene i materiali condivisi per la campagna **ECHO** (D&D 5e).
 
+📖 [Diario di campagna](Diario.md) — la storia finora, arco per arco.
+
+---
+
 ## Contenuto
 
 | Cartella | Contenuto |
 |----------|-----------|
-| `PNG/` | Schede personaggio |
-| `Mappe/` | Mappe di luoghi, dungeon e regioni |
-| `Handout/` | Documenti, lettere e oggetti in-world |
-| `Regole/` | House rules e meccaniche della campagna |
+| `Personaggi/` | Schede personaggi e PNG incontrati |
+| `LUOGHI 🗺️/` | Luoghi visitati durante la campagna |
+| `SCRITTI 📚/` | Documenti, lettere e oggetti in-world |
 
 ---
 

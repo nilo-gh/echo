@@ -10,9 +10,9 @@ Questo repository contiene i materiali condivisi per la campagna **ECHO** (D&D 5
 
 | Cartella | Contenuto |
 |----------|-----------|
-| `PERSONAGGI 👥/` | Schede personaggi e PNG incontrati |
+| `PERSONAGGI 👥/` | Tutti i personaggi incontrati |
 | `LUOGHI 🗺️/` | Luoghi visitati durante la campagna |
-| `SCRITTI 📚/` | Documenti, lettere e oggetti in-world |
+| `SCRITTI 📚/` | Documenti, lettere, libri e altro |
 
 ---
 

@@ -24,6 +24,6 @@ Si trova all'inizio del boschetto a Nord-Ovest di Welton, circondata dagli alber
 
 **Dettaglio** — Un piccolo scrigno sotto una panchina.
 
-**Sul tavolo** — Una mappa del Faerûn con una X sull'Isola di Sila.
+**Sul tavolo** — Una mappa del Faerûn con una X sull'Isola di Sila. La X è proprio nel bel mezzo della scritta Sea of Fallen Stars.
 
 ![Faerûn](ALLEGATI/Faerun.jpg)

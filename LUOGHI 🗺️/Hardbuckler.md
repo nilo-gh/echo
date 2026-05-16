@@ -16,6 +16,8 @@ Piccolo **villaggio** fortificato nei **Cuori Occidentali**, sulla Dusk Road tra
 
 Il nome viene da **Hardbuckler**, un nano avventuriero che sconfisse in questo punto una banda di bugbear alla guida dei suoi *Hardbuckler's Hurlers*.
 
+*Quello che non dice il nome: qui non si fanno domande. Non su cosa portate, non su chi siete, non su dove andate. È la prima regola della città, e la più redditizia. La seconda regola — quella non ve la dicono.*
+
 ---
 
 ## ⚙️ A colpo d'occhio
@@ -32,9 +34,13 @@ Il nome viene da **Hardbuckler**, un nano avventuriero che sconfisse in questo p
 
 ---
 
-## 🏘️ Struttura urbana
+## 🏗️ Spaccato laterale
 
 ![Hardbuckler — spaccato laterale](ALLEGATI/Hardbuckler%20spaccato.jpg)
+
+---
+
+## 🏘️ Struttura urbana
 
 Una **via ad anello** corre lungo il lato interno delle mura, incrociata da **due larghi viali** a croce. Sotto ogni cottage: un sistema di cantine profonde tre o più livelli — botteghe, laboratori, taproom, magazzini.
 
@@ -67,7 +73,6 @@ La vera industria di Hardbuckler è lo stoccaggio sicuro — senza fare domande.
 #### 🛡️ Darro Althryn — *Gnomo adulto · Capitano della Caserma*
 **Descrizione** — Mascella quadrata. Cicatrice verticale sul sopracciglio sinistro. Zoppica dalla gamba destra.
 **Voce** — Piatta e diretta. Non alza mai la voce. Ride raramente: *"Heh."*
-**Nome** — Darro Althryn · Capitano · *"Mezzapalmo"*
 
 #### 🔐 Protto Boldnose — *Gnomo di mezza età*
 **Descrizione** — Magro, quasi allampanato. Baffi curatissimi a punta. Porta sempre guanti di filo bianco.

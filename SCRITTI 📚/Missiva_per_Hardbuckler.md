@@ -7,7 +7,7 @@ LUOGO: Welton
 
 # Missiva per Hardbuckler
 
-*Avventurieri. Quello che segue è un documento ufficiale — burocratico, misurato, scritto con la calma di chi sa che la carta dura più del sangue. Lo avete redatto voi stessi, il 28 Eldatile, dopo una notte che burocratica non era affatto.*
+*Avventurieri. Quello che segue è un documento ufficiale — burocratico, misurato, scritto con la calma di chi sa che la carta dura più del sangue. Lo avete redatto voi stessi, il 28 Eldatile, dopo una notte che burocratica non lo era affatto.*
 
 ---
 

@@ -13,4 +13,4 @@ Studio richiesto: 8 ore.
 
 ---
 
-📄 [Apri il documento](https://htmlpreview.github.io/?https://github.com/nicololombardo87-cmyk/ECHO-Giocatori/blob/main/SCRITTI%20%F0%9F%93%9A/ALLEGATI/Vade-mecum_dell_alchimista_vol1.html) &nbsp; [⬇ Scarica](ALLEGATI/Vade-mecum_dell_alchimista_vol1.html)
+📄 [⬇ Scarica](ALLEGATI/Vade-mecum_dell_alchimista_vol1.pdf)

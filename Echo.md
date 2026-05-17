@@ -1,6 +1,8 @@
 # Echo 🌀
 
-*Miei curiosi lettori, il vostro fidato Volo ha attraversato abbastanza piani del multiverso da riconoscere un fenomeno straordinario quando lo incontra — e quello che affligge questi intrepidi avventurieri è qualcosa che i maghi di Candlekeep hanno rinunciato a spiegare. Lo chiamano Echo, e si manifesta come lampi di vite parallele, salti nel tempo e nello spazio, echi di sé che riverberano da un altrove impossibile. Annotate tutto, vi scongiuro — la storia non si ripete mai esattamente nello stesso modo.*
+*Miei curiosi lettori, il vostro fidato Volo ha attraversato abbastanza piani del multiverso da riconoscere un fenomeno straordinario quando lo incontra — e quello che affligge questi intrepidi avventurieri è qualcosa che i maghi di Candlekeep hanno rinunciato a spiegare. Lo chiamano Echo, e si manifesta come lampi di vite parallele, salti nel tempo e nello spazio, echi di sé che riverberano da un altrove impossibile. Annotate tutto, vi scongiuro — la storia non si ripete mai esattamente nello stesso modo.
+
+— *Volothamp Geddarm**
 
 *Aggiornato: 2026-05-17*
 

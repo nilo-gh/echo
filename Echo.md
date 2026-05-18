@@ -4,7 +4,7 @@
 
 — *Volothamp Geddarm*
 
-*Aggiornato: 2026-05-17*
+*Aggiornato: 2026-05-18*
 
 ---
 
@@ -35,15 +35,6 @@
 
 - **Banteth da Enebor a Welton**
   - Glydì 27 Eldatile 2026 DR
-
-- **Sirio parla**
-  - Glydì 27 Eldatile 2026 DR
-
-- **Cappa del Lightbringer reagisce a Padre Merrikson e al canto**
-  - Gardì 28 Eldatile 2026 DR
-
-- **Mauk chiamato in sogno da una voce e la sete di sangue**
-  - Gardì 28 Eldatile 2026 DR
 
 - **Anima come corrente**
   - Gardì 28 Eldatile 2026 DR

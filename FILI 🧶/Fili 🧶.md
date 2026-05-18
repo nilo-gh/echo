@@ -1,6 +1,6 @@
 # Fili narrativi
 
-*Aggiornato: 2026-05-17*
+*Aggiornato: 2026-05-18*
 
 ---
 
@@ -62,7 +62,9 @@
 - Alexi non sapeva nulla dei lupi parlanti
 - {'Diario di Alexi': 'preparava "un regalo per Banteth" come via di fuga (36 ore di finestra, note di Nela)'}
 - Alexi doveva portare qualcosa in custodia a Nela Inchtarwurn ad Hardbuckler
-- Trovata una mappa verso un'isoletta nel Mare delle stelle cadenti annotata "villaggio Milo, Banteth Statebeard"
+- Trovata una mappa verso un'isoletta nel Mare delle stelle cadenti annotata "villaggio Milo, Banteth Slatebeard"
+- Nela Inchtarwurn conosceva Alexi e gestisce uno dei caveau più sicuri del Faerûn
+- {'Diario di Alexi': '3 pagine tra Helmio e Tyrio 2025 — regalo per Banteth, oggetto nascosto, tre notti insonni'}
 
 **Scelte**
 - Accettare Corel come guida
@@ -93,6 +95,7 @@
 - Paulie ricorda il nome Aerin dalla visione
 - Paulie e Kolì si intravedono nella nebbia per la prima volta e riconoscono qualcosa di familiare l'una nell'altra
 - Paulie vive una visione nei panni di Aerin
+- Paulie e Kolì si incontrano per la prima volta a Hardbuckler
 
 **Scelte**
 - Skinard, per la prima volta, prova a percepire l'Echo alla Stalla Bianca
@@ -120,8 +123,9 @@
 - Tracce dei lupi verso ovest
 - Ululati nel bosco
 - Parla in sogno a Fiamma e Lampo
+- Sirio parla
 - Skinard e il flashback negli occhi di Sirio; Alexi contro gli assassini
-- {'Accordo stipulato': 'i lupi ricevono 1 pecora a settimana in inverno, smettono di attaccare le greggi'}
+- Accordo stipulato: i lupi ricevono 1 pecora a settimana in inverno, smettono di attaccare le greggi
 - I lupi custodiscono lo scrigno magico e lo scrigno oscuro di Alexi
 - I lupi cedono la Cappa del Lightbringer al gruppo
 
@@ -155,6 +159,14 @@
 - Investigare sulle mareggiate a Trabalus
 - Verso Trabalus
 
+### Portali
+
+**Tracce**
+- Alla locanda di Hardbuckler compare un portale di luce blu da cui escono 2 guardie
+
+**Scelte**
+- *Nessuna scelta*
+
 ### Spie a Welton
 
 **Tracce**
@@ -163,11 +175,12 @@
 - Riflesso dall'altopiano
 - Tracce fino ai capannoni della stazione
 - Resina di betulla e menta
-- Tommy Hale è in realtà Garren Voss, agente GATU infiltrato a Welton
-- Tommy Hale (Garren Voss) e Larik Doss appartengono a fazioni diverse
-- Trovata corrispondenza tra Garren Voss e A.T. all'ufficio postale
+- Tommy Hale è in realtà Gerren Voss, agente GATU infiltrato a Welton
+- Tommy Hale (Gerren Voss) e Larik Doss appartengono a fazioni diverse
+- Trovata corrispondenza tra Gerren Voss e A.T. all'ufficio postale
 - Gli Zhentarim stanno espandendo contrabbando e corruzione nell'ATU (confermato da Nela Inchtarwurn)
 - Carl invia missiva a Naaz per informazioni sulle sigle del pizzino (K.C., A.T., G.V.)
+- Darro manda 2 guardie a prelevare Tommy da Welton
 
 **Scelte**
 - Catturare Larik Doss

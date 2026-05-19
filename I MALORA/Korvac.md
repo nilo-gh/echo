@@ -62,7 +62,7 @@
 | Coltello | 0,5 kg | 2 mo | lancio, accurata |
 | Anello dell'Oscurità di Larik | — | — | oggetto magico |
 | Anello di Alexi | — | — | tesoro |
-| Pozione di Guarigione | 0,25 kg | 50 mo | 2d4+2 PF |
+| Pozione di guarigione | 0,25 kg | 50 mo | 2d4+2 PF |
 | Veleno base | — | 100 mo | 1d4 veleno, CD 10 Cos; 1 azione applicare |
 | **Totale** | **3,75 kg** | | trasporto leggero (soglia: 23 kg) |
 

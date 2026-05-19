@@ -18,7 +18,7 @@
 > **Difetti**
 > Individualista — quando le cose si mettono male, pensa prima a se stesso.
 
-> **Privilegio**  —  Contatto Criminale
+> **Privilegio** — Contatto Criminale
 > Ha un contatto affidabile: tramite con una fitta rete criminale. Messaggi a grandi distanze tramite corrieri, carovanieri e marinai poco raccomandabili.
 
 ---
@@ -53,25 +53,25 @@
 
 ## Equipaggiamento
 
-| mr  | ma  | mo  | mp  | me  |
+| mr | ma | mo | mp | me |
 | --- | --- | --- | --- | --- |
-| 0   | 4   | 144 | 0   | 0   |
+| 0 | 4 | 144 | 0 | 0 |
 
-| Oggetto             | Peso   | Note             |
+| Oggetto | Peso | Note |
 | ------------------- | ------ | ---------------- |
-| Rapiere             | 1 kg   | accurata         |
-| Pugnali (x2)        | 1 kg   | lancio, accurata |
-| Arco Corto          | 1 kg   |                  |
-| Faretra + 20 frecce | 0,5 kg |                  |
-| Armatura di cuoio   | 7,5 kg | CA 11+DES        |
-| Scudo               | 3 kg   | CA +2            |
-| Attrezzi da scasso  | 1 kg   |                  |
-| Dadi                | —      |                  |
-| Mantello scuro      | —      |                  |
-| Gesso               | —      |                  |
-| Fune (15 m)         | 5 kg   |                  |
-| Libro di alchimia   | 1 kg   | tesoro           |
-| **Totale**          |        |                  |
+| Rapiere | 1 kg | accurata |
+| Pugnali (x2) | 1 kg | lancio, accurata |
+| Arco Corto | 1 kg | |
+| Faretra + 20 frecce | 0,5 kg | |
+| Armatura di cuoio | 7,5 kg | CA 11+DES |
+| Scudo | 3 kg | CA +2 |
+| Attrezzi da scasso | 1 kg | |
+| Dadi | — | |
+| Mantello scuro | — | |
+| Gesso | — | |
+| Fune (15 m) | 5 kg | |
+| Libro di alchimia | 1 kg | tesoro |
+| **Totale** | | |
 
 ---
 
@@ -84,15 +84,9 @@ Nel mondo degli umani ha sopravvissuto come ladro, informatore, spia e spadaccin
 
 Ora vive come fuorilegge, opera nell'ombra, aiutando di tanto in tanto qualcuno in difficoltà. 
 
-> **Dm**  —  DM
- > Ha un contatto nella malavita, Naaz la Veggente, che gli offre informazioni e favori in cambio di piccoli compensi.
-
 Il suo sogno è ritornare a Larethil da eroe, denunciando o sgominando il giro di corruzione intorno ai membri che lo hanno esiliato.
 
 ### Alleati
-
-> **Dm**  —  DM
-> **Naaz la Veggente** — mediatrice d'informazioni e segreti. Copertura: speziale/erborista in una bottega senza insegna, vicolo secondario del quartiere portuale. L'ha indirizzato a più di un lavoro quando era braccato. Tra i due vige un patto: mai menzionare debiti in pubblico.
 
 ### Legami
 
@@ -105,5 +99,5 @@ Governo corrotto di Larethil.
 ### Note di gioco
 
 - Ha truffato passeggeri rivendendo biglietti del treno a Suzail (A2S6).
-- Ha inviato una missiva a Naaz la Veggente %% DM%% per info sulle sigle del pizzino (A3S13).
+- Ha inviato una missiva a per info sulle sigle del pizzino (A3S13).
 - Nel sogno del 1900 DR era Brann.

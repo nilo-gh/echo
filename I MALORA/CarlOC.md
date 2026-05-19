@@ -19,7 +19,7 @@
 > Individualista — quando le cose si mettono male, pensa prima a se stesso.
 
 > **Privilegio**  —  Contatto Criminale
-> Possiede Naaz la Veggente come contatto affidabile: tramite con una fitta rete criminale. Messaggi a grandi distanze tramite corrieri, carovanieri e marinai poco raccomandabili.
+> Ha un contatto affidabile: tramite con una fitta rete criminale. Messaggi a grandi distanze tramite corrieri, carovanieri e marinai poco raccomandabili.
 
 ---
 
@@ -44,6 +44,11 @@
 *1/riposo breve*
 - [ ] ◆
 
+### Slot 1°
+*2/riposo lungo*
+- [ ] I
+- [ ] I
+
 ---
 
 ## Equipaggiamento
@@ -52,29 +57,53 @@
 | --- | --- | --- | --- | --- |
 | 0   | 4   | 144 | 0   | 0   |
 
-| Oggetto             | Peso   | Valore | Note             |
-| ------------------- | ------ | ------ | ---------------- |
-| Rapiere             | 1 kg   |        | accurata         |
-| Pugnali (x2)        | 1 kg   |        | lancio, accurata |
-| Arco lungo          | 1 kg   |        |                  |
-| Faretra + 20 frecce | 0,5 kg |        |                  |
-|                     |        |        |                  |
-| **Totale**          |        |        |                  |
+| Oggetto             | Peso   | Note             |
+| ------------------- | ------ | ---------------- |
+| Rapiere             | 1 kg   | accurata         |
+| Pugnali (x2)        | 1 kg   | lancio, accurata |
+| Arco Corto          | 1 kg   |                  |
+| Faretra + 20 frecce | 0,5 kg |                  |
+| Armatura di cuoio   | 7,5 kg | CA 11+DES        |
+| Scudo               | 3 kg   | CA +2            |
+| Attrezzi da scasso  | 1 kg   |                  |
+| Dadi                | —      |                  |
+| Mantello scuro      | —      |                  |
+| Gesso               | —      |                  |
+| Fune (15 m)         | 5 kg   |                  |
+| Libro di alchimia   | 1 kg   | tesoro           |
+| **Totale**          |        |                  |
 
 ---
 
 ## Narrativa
 
+### Storia
+Carl O'Crack è un alto elfo esiliato dalla sua terra natale Larethil dopo aver scoperto una rete di corruzione che coinvolgeva membri influenti della sua comunità.
+
+Nel mondo degli umani ha sopravvissuto come ladro, informatore, spia e spadaccino, muovendosi tra vicoli e taverne come un'ombra. Durante una fuga, si è rifugiato in antiche rovine arcane dove ha risvegliato un potere latente: unisce tecnica di spada e magia, diventando un Cavaliere Mistico.
+
+Ora vive come fuorilegge, opera nell'ombra, aiutando di tanto in tanto qualcuno in difficoltà. 
+
+> **Dm**  —  DM
+ > Ha un contatto nella malavita, Naaz la Veggente, che gli offre informazioni e favori in cambio di piccoli compensi.
+
+Il suo sogno è ritornare a Larethil da eroe, denunciando o sgominando il giro di corruzione intorno ai membri che lo hanno esiliato.
+
 ### Alleati
-- Naaz la Veggente — mediatrice d'informazioni e segreti.
+
+> **Dm**  —  DM
+> **Naaz la Veggente** — mediatrice d'informazioni e segreti. Copertura: speziale/erborista in una bottega senza insegna, vicolo secondario del quartiere portuale. L'ha indirizzato a più di un lavoro quando era braccato. Tra i due vige un patto: mai menzionare debiti in pubblico.
 
 ### Legami
-- Tornare a Larethil da eroe smascherando il governo corrotto.
 
-### Nemici
-- Governo corrotto di Larethil.
+Tornare a Larethil da eroe smascherando il governo corrotto.
+
+### Nemici 
+
+Governo corrotto di Larethil.
 
 ### Note di gioco
+
 - Ha truffato passeggeri rivendendo biglietti del treno a Suzail (A2S6).
-- Ha inviato una missiva a Naaz per info sulle sigle del pizzino (A3S13).
-- Nel sogno del 1900 DR era Elenya.
+- Ha inviato una missiva a Naaz la Veggente %% DM%% per info sulle sigle del pizzino (A3S13).
+- Nel sogno del 1900 DR era Brann.

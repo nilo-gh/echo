@@ -17,9 +17,10 @@
 
 > **Difetti**
 > Si espone facilmente al pericolo pur di eliminare creature non-morte — anche a rischio della propria vita.
+> Fatica a dormire in luoghi chiusi o sotterranei, ma non lo dà a vedere.
 
 
-> **Privilegio**  —  Viandante
+> **Privilegio** — Viandante
 > Memoria geografica infallibile. Sa trovare cibo e acqua fresca per sé e fino a 5 persone ogni giorno, a patto che il territorio offra risorse naturali.
 
 ---
@@ -49,26 +50,28 @@
 
 ## Equipaggiamento
 
-| mr  | ma  | mo  | mp  | me  |
+| mr | ma | mo | mp | me |
 | --- | --- | --- | --- | --- |
-| 0   | 0   | 100 | 0   | 0   |
+| 0 | 0 | 100 | 0 | 0 |
 
-| Oggetto                           | Peso   | Valore | Note |
-| --------------------------------- | ------ | ------ | ---- |
-| Spada lunga                       | 1,5 kg |        |      |
-| Arco lungo                        | 1 kg   |        |      |
-| Faretra + 20 frecce               | 0,5 kg |        |      |
-| anello di alexi                   |        |        |      |
-| coltello                          |        |        |      |
-| Anello dell'Oscurità di Larik |        |        |      |
-| pozione di guarigione             |        |        |      |
-| veleno semplice                   |        |        |      |
-|                                   |        |        |      |
-| **Totale**                        |        |        |      |
+| Oggetto | Peso | Valore | Note |
+| --------------------------------- | ------- | ------- | --------------------------------------- |
+| Spada lunga | 1,5 kg | 15 mo | versatile |
+| Arco lungo | 1 kg | 50 mo | |
+| Faretra + 20 frecce | 0,5 kg | 1 mo | |
+| Coltello | 0,5 kg | 2 mo | lancio, accurata |
+| Anello dell'Oscurità di Larik | — | — | oggetto magico |
+| Anello di Alexi | — | — | tesoro |
+| Pozione di Guarigione | 0,25 kg | 50 mo | 2d4+2 PF |
+| Veleno base | — | 100 mo | 1d4 veleno, CD 10 Cos; 1 azione applicare |
+| **Totale** | **3,75 kg** | | trasporto leggero (soglia: 23 kg) |
 
 ---
 
 ## Narrativa
+
+### Storia
+Il villaggio di Korvac è stato distrutto dai non morti. Da quel giorno porta sempre con sé una piuma bruciata trovata sul luogo della strage — l'unico frammento rimasto della sua gente. Ha fatto un giuramento al suo mentore, un debito che non ha ancora onorato. Ora cammina tra i mortali come cacciatore: disciplinato, metodico, con gli occhi fissi su qualunque cosa non meriti di stare in piedi.
 
 ### Alleati
 -
@@ -81,5 +84,6 @@
 - Un necromante ancora in vita che ha guidato l'attacco al suo villaggio.
 
 ### Note di gioco
-- Sconfitto da Tommy Hale e stabilizzato da Leanor (A3S12).
-- Nel sogno del 1900 DR era Brann.
+- Nel sogno del 1900 DR era Torfin.
+- Sesto senso: ha centrato Larik Doss con una freccia scoccata nell'oscurità più profonda.
+- Piumacce dure: sconfitto da Tommy Hale, resta sospeso tra la vita e la morte. Ne esce vivo.

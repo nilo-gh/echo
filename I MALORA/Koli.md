@@ -19,7 +19,7 @@
 > **Difetti**
 > Prende tutto sul personale. Il ferro lavorato le è disturbante.
 
-> **Privilegio**  —  Funzionario di Corte
+> **Privilegio** — Funzionario di Corte
 > Negli ambienti di corte — mortali o fatati — il suo titolo apre porte che ad altri restano chiuse. Ottiene udienza da nobili, diplomatici e spiriti di rango; le viene offerta ospitalità in cambio di notizie dalla Corte Seelie. Chi conosce le Fate sa che ogni favore ha un prezzo.
 
 ---
@@ -58,20 +58,22 @@
 
 ## Equipaggiamento
 
-| mr  | ma  | mo  | mp  | me  |
+| mr | ma | mo | mp | me |
 | --- | --- | --- | --- | --- |
-| 7   | 6   | 30  | 0   | 0   |
+| 7 | 6 | 30 | 0 | 0 |
 
-| Oggetto                 | Peso        | Valore | Note                                |
+| Oggetto | Peso | Valore | Note |
 | ----------------------- | ----------- | ------ | ----------------------------------- |
-| Armatura di cuoio       | 5 kg        | 10 mo  | leggera                             |
-| Stocco                  | 1 kg        | 25 mo  | accurata                            |
-| Pugnale                 | 0,5 kg      | 2 mo   | lancio, accurata                    |
-| Flauto di selenite      | 0,5 kg      | 20 mo  | bacchetta di selenite di Aerin Mess |
-| Zaino                   | 2,5 kg      | 2 mo   |                                     |
-| Borsa da cortigiana     | 0,5 kg      | 1 mo   | accessorio elegante                 |
-| Anello con opale bianco | —           | 30 mo  | gioiello personale                  |
-| **Totale**              | **10,5 kg** |        | trasporto leggero (soglia: 20 kg)   |
+| Armatura di cuoio | 5 kg | 10 mo | leggera |
+| Stocco | 1 kg | 25 mo | accurata |
+| Pugnale | 0,5 kg | 2 mo | lancio, accurata |
+| Balestra a mano | 1,5 kg | 75 mo | |
+| Quadrelli (20) | 0,75 kg | 1 mo | |
+| Flauto di selenite | 0,5 kg | 20 mo | bacchetta di selenite di Aerin Mess |
+| Zaino | 2,5 kg | 2 mo | |
+| Borsa da cortigiana | 0,5 kg | 1 mo | accessorio elegante |
+| Anello con opale bianco | — | 30 mo | gioiello personale |
+| **Totale** | **10,5 kg** | | trasporto leggero (soglia: 20 kg) |
 
 ---
 
@@ -92,4 +94,3 @@
 - Ha mostrato una natura sadica durante l'interrogatorio di Tommy Hale (A3S12) — evento che l'ha turbata.
 - È partita in solitaria per Hardbuckler (A3S13), dove ha incontrato la maga Nela Inchtarwurn.
 - Nel sogno condiviso del 1900 DR era Aerin Mess.
-- Ingrandire/Ridurre e Invisibilità disponibili senza slot 1/riposo lungo (fonte da confermare per Invisibilità).

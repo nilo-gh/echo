@@ -38,7 +38,7 @@
 ## Risorse
 ### Slot 1°
 *4/riposo lungo*
-- [x] I
+- [ ] I
 - [ ] I
 - [ ] I
 - [ ] I
@@ -79,12 +79,15 @@
 
 ## Narrativa
 
+### Storia
+«Colei che vibra tra le pieghe del tempo» è una fata della Corte Seelie, dalle ali veloci e colorate come quelle di un colibrì. Lo sguardo antico e la voce gentile custodiscono secoli di memoria. Si muove su questo piano come un'ospite, ma con la sensazione di esserci già stata molte volte, riconoscendo luoghi mutati dal tempo. Ha amato una mortale, 🌫️ Aerin Mess, e quell'amore la lega ancora al tempo degli uomini. Ora vaga come barda fatata per onorare la promessa fatta al suo grande amore: ricordare chi era, anche contro il silenzio e contro la morte.
+
 ### Alleati
 - Corte Seelie · Regina Titania
 - Reti di contatti negli ambienti di corte (privilegio Cortigiana)
 
 ### Legami
-- Il flauto di selenite è stato ricavato da una bacchetta appartenuta ad Aerin Mess.
+- Il flauto di selenite è stato ricavato da una bacchetta appartenuta ad 🌫️ Aerin Mess.
 - Il legame con Aerin è per lei indissolubile, oltre ogni dimensione conosciuta.
 
 ### Nemici

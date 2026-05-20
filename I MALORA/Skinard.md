@@ -35,6 +35,7 @@
 - Produrre Fiamma
 - Guida 🅒
 - Tocco Gelido
+- Luce *(dalla Cappa del Lightbringer, 1/riposo breve)*
 
 ### 1° livello
 *seleziona 5 oggi*
@@ -71,6 +72,10 @@
 ---
 
 ## Risorse
+### Cappa del Lightbringer — Luce
+*1/riposo breve*
+- [ ] ◆
+
 ### Forma Selvatica / Simbiosi
 *2/riposo breve*
 - [x] ◆

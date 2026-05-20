@@ -71,7 +71,7 @@
 | Gesso | — | |
 | Fune (15 m) | 5 kg | |
 | Libro di alchimia | 1 kg | tesoro |
-| **Totale** | | |
+| **Totale** | **21 kg** | |
 
 ---
 

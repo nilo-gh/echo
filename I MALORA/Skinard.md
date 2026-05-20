@@ -42,9 +42,6 @@
 - [x] Amicizia con gli Animali
 - [x] Assorbire Elementi
 - [x] Bacche Buone
-> **N.B.**
-> - [x] Camuffare Sé Stesso
-> - [x] Capire Linguaggi Ⓡ
 - [ ] Coltello di Ghiaccio
 - [x] Creare o Distruggere Acqua
 - [ ] Cura Ferite
@@ -95,21 +92,21 @@
 | --- | --- | --- | --- | --- |
 | 0   | 0   | 110 | 0   | 0   |
 
-| Oggetto          | Peso   | Valore | Note |
-| ---------------- | ------ | ------ | ---- |
-| Scimitarra       | 1,5 kg |        |      |
-| Scudo            | 3 kg   |        |      |
-| scrigno oscuro   |        |        |      |
-| **Totale**       |        |        |      |
-| scrigno          |        |        |      |
-| razioni 19       |        |        |      |
-| sacco a pelo     |        |        |      |
-| gavetta          |        |        |      |
-| pietra fpcai acc |        |        |      |
-| otre             |        |        |      |
-| corda            |        |        |      |
-| zaino            |        |        |      |
-| torce 10         |        |        |      |
+| Oggetto | Peso | Note |
+| --- | --- | --- |
+| Scimitarra | 1,5 kg | |
+| Scudo | 3 kg | |
+| Cappa del Lightbringer | 1,5 kg | indossata |
+| Scrigno oscuro | — | |
+| Zaino | 2,5 kg | |
+| Sacco a pelo | 3,5 kg | |
+| Gavetta | 0,5 kg | |
+| Acciarino e pietra focaia | 0,5 kg | |
+| Otre | 2,5 kg | |
+| Corda di canapa (15 m) | 5 kg | |
+| Torce ×10 | 5 kg | |
+| Razioni ×19 | 9,5 kg | |
+| **Totale** | **~35,5 kg** | |
 
 ---
 

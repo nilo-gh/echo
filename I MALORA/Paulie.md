@@ -88,18 +88,22 @@
 | -- | -- | -- | -- | -- |
 |    |    | 160 |   |    |
 
-| Oggetto | Note |
-| --- | --- |
-| Pugnale | 1d4 P, gittata 6/18 m |
-| Orologio da taschino | *Deus ex machina* — fuoco arcano |
-| Libro Incantesimi | |
-| Libro di studio | |
-| Boccetta d'inchiostro + pennino | |
-| 10 fogli di pergamena | |
-| Sacchetto di sabbia | |
-| Coltellino | |
-| Tenda · Torcia · Giaciglio | |
-| 10 razioni · Borraccia | |
+| Oggetto | Peso | Note |
+| --- | --- | --- |
+| Pugnale | 0,5 kg | 1d4 P, gittata 6/18 m |
+| Orologio da taschino | — | *Deus ex machina* — fuoco arcano |
+| Libro Incantesimi | 1,5 kg | |
+| Libro di studio | 2,5 kg | |
+| Boccetta d'inchiostro + pennino | — | |
+| 10 fogli di pergamena | — | |
+| Sacchetto di sabbia | 0,5 kg | |
+| Coltellino | — | |
+| Tenda | 9 kg | |
+| Torcia | 0,5 kg | |
+| Giaciglio | 3,5 kg | |
+| 10 razioni | 5 kg | |
+| Borraccia | 2,5 kg | |
+| **Totale** | **~25,5 kg** | |
 
 ---
 

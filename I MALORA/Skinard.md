@@ -125,8 +125,6 @@
 ### Nemici
 -
 
-### Note di gioco
-- Ha divorato un lupo durante A3S7.
-- Ha avuto una visione Echo guardando Sirio negli occhi: Alexi contro i sicari.
-- Ha mostrato i denti a Padre Merriksonn durante l'interrogatorio di Tommy (A3S12).
-- Nel sogno del 1900 DR era Elenya.
+### Background
+
+Skinard è figlio delle paludi e servo della natura. Nessuno sa qualcosa di lui, nemmeno lui stesso. È stato trovato svenuto in un luogo sacro nel circolo druidico dei Lizardfolk ed è stato addestrato come druido da loro. Se riesci a scambiare più di una parola con lui, scoprirai che è lui che sta studiando te, non il contrario. Meglio non disturbarlo mentre banchetta con i suoi nemici.

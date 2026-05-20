@@ -46,6 +46,10 @@
 *1/riposo breve*
 - [ ] ◆
 
+### Anello dell'Oscurità di Larik — Oscurità 🅒
+*1/riposo lungo*
+- [ ] ◆
+
 ---
 
 ## Equipaggiamento

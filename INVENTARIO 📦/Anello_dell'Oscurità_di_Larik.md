@@ -19,7 +19,7 @@ Anello di metallo scuro, privo di incisioni. Non ha nulla che lo distingua da un
 
 Apparteneva a Larik Doss, una spia catturata dal gruppo ai Capannoni della stazione di Welton il 27 Eldatile 2026 DR. Lo usò nel tentativo di fuga: lanciò un'oscurità magica su tutta l'area, abbastanza da disorientare il gruppo. Fu Korvac a rompergli la concentrazione — una freccia scoccata al buio, guidata solo dall'udito.
 
-**Uso dell'Oggetto.** Una volta per riposo lungo, chi lo indossa può lanciare Oscurità (incantesimo di 2° livello, concentrazione fino a 10 minuti). Non richiede sintonia. CD tiro salvezza 13 · Bonus attacco +5.
+**Uso dell'Oggetto.** Una volta per riposo lungo, chi lo indossa può lanciare Oscurità (incantesimo di 2° livello, concentrazione fino a 10 minuti). Non richiede sintonia.
 
 ## Scheda
 
@@ -31,8 +31,6 @@ Apparteneva a Larik Doss, una spia catturata dal gruppo ai Capannoni della stazi
 | Reperibilità | non comune |
 | Richiede sintonia | ✗ |
 | Effetti | Oscurità 🅒 (1/riposo lungo) |
-| CD tiro salvezza | 13 |
-| Bonus attacco | +5 |
 
 ## Note
 

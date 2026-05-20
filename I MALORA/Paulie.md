@@ -135,6 +135,7 @@
 
 ### Note di gioco
 - preparati 4 +2
+- PF da verificare — se usi valori medi il totale corretto è 23.
 
 ### Note tattiche
 Priorità: mantenere l'**Interdizione Arcana** attiva lanciando **Scudo** (Ab.) o altri incantesimi di Abiurazione — assorbe i primi 9 PF. **Scudo** in reazione è il salvavita più importante. **Sonno** è devastante contro gruppi di nemici con pochi PF. **Dardo Incantato** per danno garantito senza tiro. **Mani Brucianti** solo se circondata. Tenere la Concentrazione libera per **Ragnatela** nelle situazioni di controllo.

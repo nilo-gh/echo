@@ -122,6 +122,24 @@
 
 ## Narrativa
 
+### Background
+
+*"Cos'è dunque il tempo? Se nessuno me lo chiede, lo so; se voglio spiegarlo a qualcuno che me lo chiede, non lo so più."*
+
+**Infanzia.** Paulie è cresciuta con sua madre Constance — solo loro due. Bambina allegra e curiosa, trovò una figura paterna nell'amico di famiglia Jason. Il segreto di Constance sul padre di Paulie è sempre rimasto taciuto, nonostante i litigi: un'ossessione repressa che Paulie non ha mai smesso di portarsi dentro.
+
+**La fabbrica.** Constance portava spesso la figlia con sé al lavoro. Paulie passava il tempo ad esplorare corridoi e reparti, diventando una presenza quasi invisibile tra le macchine.
+
+**La stanza.** A otto anni, Paulie trovò una porta normalmente chiusa socchiusa. Scese una rampa di scale interminabile e aprì un'altra porta. Una luce azzurrina la investì e centinaia di immagini le scorsero attorno — battaglie, esplosioni, banchetti, morte. Una rimase impressa: un uomo sulla trentina, in divisa, che la guardava fisso negli occhi. Una voce disse *"Deus ex machina"* e Paulie si ritrovò fuori, con in mano un orologio da taschino argentato — usurato, funzionante, con quelle stesse parole incise all'interno.
+
+**Il risveglio.** Tornata a casa, Paulie rimase in silenzio per giorni. Poi, a cena, mormorò *"Deus ex machina"* e una luce azzurrina si diffuse dall'orologio — gli oggetti cominciarono a fluttuare. Constance riconobbe quella manifestazione: l'aveva già vista anni prima, da qualcun altro.
+
+**L'Accademia.** Constance rintracciò Rupert Finnes, che confermò: erano poteri magici, trasmessi da un'entità soprannaturale. Consigliò l'Accademia di Magia della capitale. Paulie ci andò, a malincuore — e finì per amarlo. Studiò con entusiasmo, ma non smise mai di cercare risposte sulla stanza: ricollegò le visioni a una guerra di circa cento anni prima.
+
+**La ricerca.** Diplomata a 30 anni con ottimi voti, Paulie partì. Le risposte che cercava — chi era l'uomo nelle visioni, cosa fosse quella voce — non erano nell'Accademia. Sente che il mistero della stanza e il segreto di Constance sul padre siano, in qualche modo, la stessa cosa.
+
+---
+
 ### Alleati
 - Constance Locke — madre
 - Jason — amico di famiglia, figura paterna
@@ -132,10 +150,3 @@
 
 ### Nemici
 -
-
-### Note di gioco
-- preparati 4 +2
-- PF da verificare — se usi valori medi il totale corretto è 23.
-
-### Note tattiche
-Priorità: mantenere l'**Interdizione Arcana** attiva lanciando **Scudo** (Ab.) o altri incantesimi di Abiurazione — assorbe i primi 9 PF. **Scudo** in reazione è il salvavita più importante. **Sonno** è devastante contro gruppi di nemici con pochi PF. **Dardo Incantato** per danno garantito senza tiro. **Mani Brucianti** solo se circondata. Tenere la Concentrazione libera per **Ragnatela** nelle situazioni di controllo.

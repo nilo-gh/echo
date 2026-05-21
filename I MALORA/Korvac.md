@@ -40,7 +40,7 @@
 
 ### Secondo Vento
 *1/riposo breve*
-- [ ] ◆
+- [x] ◆
 
 ### Azione Impetuosa
 *1/riposo breve*
@@ -92,3 +92,7 @@ Il villaggio di Korvac è stato distrutto dai non morti. Da quel giorno porta se
 - Nel sogno del 1900 DR era Torfin.
 - Sesto senso: ha centrato Larik Doss con una freccia scoccata nell'oscurità più profonda.
 - Piumacce dure: sconfitto da Tommy Hale, resta sospeso tra la vita e la morte. Ne esce vivo.
+
+## Link a scheda PDF
+
+https://drive.google.com/file/d/1shQQv8_Eah1731kuNWg11zbnevMUXFoq/view?usp=drive_link

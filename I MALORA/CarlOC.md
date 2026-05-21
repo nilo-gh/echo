@@ -38,7 +38,7 @@
 
 ### Secondo Vento
 *1/riposo breve*
-- [ ] ◆
+- [x] ◆
 
 ### Azione Impetuosa
 *1/riposo breve*
@@ -84,8 +84,6 @@ Nel mondo degli umani ha sopravvissuto come ladro, informatore, spia e spadaccin
 
 Ora vive come fuorilegge, opera nell'ombra, aiutando di tanto in tanto qualcuno in difficoltà. 
 
-Il suo sogno è ritornare a Larethil da eroe, denunciando o sgominando il giro di corruzione intorno ai membri che lo hanno esiliato.
-
 ### Alleati
 
 ### Legami
@@ -98,6 +96,10 @@ Governo corrotto di Larethil.
 
 ### Note di gioco
 
-- Ha truffato passeggeri rivendendo biglietti del treno a Suzail (A2S6).
-- Ha inviato una missiva a per info sulle sigle del pizzino (A3S13).
 - Nel sogno del 1900 DR era Brann.
+- _"Ruba ai ricchi, non ai poveri."_: parole sue non deruba due pastori, ma nella stessa occasione ha la mano lesta con due borghesi, rivende il malloppo e ci guadagna.
+- Contatti fidati: ha inviato una missiva a per info sulle sigle del pizzino.
+
+## Link a scheda PDF
+
+https://drive.google.com/file/d/1UL13nG7xKgV8eBnoar39b5eDWFp7vX5x/view?usp=drive_link

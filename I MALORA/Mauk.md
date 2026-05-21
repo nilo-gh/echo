@@ -57,7 +57,7 @@
 | 0 | 0 | 0 | 0 | 0 |
 
 | Oggetto | Peso | Note |
-|---|---|---|
+| ------------------------------------------ | :----- | ----------------------------------------------------------------- |
 | Armatura di cuoio | 5 kg | |
 | Pugnale ×2 | 1 kg | |
 | Focus arcano | — | Talismà rituale inciso |
@@ -95,3 +95,7 @@ Davanti a lui, un antico tomo giaceva aperto: glifi e simboli che promettevano p
 - Nel sogno del 1900 DR era Belin.
 - Ha lottato con la sete di sangue (A3S8, A3S11).
 - Harlan gli ha dato un pugno (A3S15) — questione biglietti treno da Suzail.
+
+## Link a scheda PDF
+
+https://drive.google.com/file/d/1kU-eJ_UGBLPEGuLbGLruEJUTV0YnfXkc/view?usp=drive_link

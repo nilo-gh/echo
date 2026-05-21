@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="865" font-family="Georgia, serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="945" font-family="Georgia, serif">
 
-  <rect width="560" height="865" fill="#f5e6c8" rx="8"/>
-  <rect x="5" y="5" width="550" height="855" fill="none" stroke="#8b1a1a" stroke-width="2.5" rx="6"/>
+  <rect width="560" height="945" fill="#f5e6c8" rx="8"/>
+  <rect x="5" y="5" width="550" height="935" fill="none" stroke="#8b1a1a" stroke-width="2.5" rx="6"/>
 
   <clipPath id="clip-Skinard">
     <rect x="402" y="12" width="150" height="240" rx="4"/>
@@ -10,7 +10,7 @@
          preserveAspectRatio="xMidYMid slice" clip-path="url(#clip-Skinard)"/>
   <rect x="402" y="12" width="150" height="240" fill="none" stroke="#8b1a1a" stroke-width="1.5" rx="4"/>
 
-  <text x="196" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">Skinard</text>
+  <text x="196" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">🦎 Skinard</text>
   <text x="196" y="55" text-anchor="middle" font-size="11" font-style="italic" fill="#555555">Lizardfolk / Druido 2 — Circolo delle Spore</text>
   <text x="196" y="69" text-anchor="middle" font-size="11" fill="#555555">Neutrale</text>
 
@@ -19,7 +19,7 @@
   <text x="98" y="93" text-anchor="middle" font-size="11" fill="#8b1a1a" font-weight="bold">CA</text>
   <text x="98" y="110" text-anchor="middle" font-size="16" fill="#1a1a1a">17</text>
   <text x="196" y="93" text-anchor="middle" font-size="11" fill="#8b1a1a" font-weight="bold">PF</text>
-  <text x="196" y="110" text-anchor="middle" font-size="16" fill="#1a1a1a">19 (2d8+6)</text>
+  <text x="196" y="110" text-anchor="middle" font-size="16" fill="#1a1a1a">19</text>
   <text x="294" y="93" text-anchor="middle" font-size="11" fill="#8b1a1a" font-weight="bold">VEL</text>
   <text x="294" y="110" text-anchor="middle" font-size="12" fill="#1a1a1a">9 m, nuoto 9 m</text>
 
@@ -30,7 +30,7 @@
   <line x1="15" y1="171" x2="392" y2="171" stroke="#8b1a1a" stroke-width="1"/>
 
   <text x="15" y="188" font-size="10.5" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Sal.: </tspan>INT +2 · SAG +5</text>
-  <text x="15" y="203" font-size="10.5" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Comp.: </tspan>Natura +2 · Percezione +5 · Sopravvivenza +5+1</text>
+  <text x="15" y="203" font-size="10.5" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Comp.: </tspan>Natura +2 · Percezione +5 · Sopravvivenza +6</text>
   <text x="15" y="216" font-size="10.5" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Sensi: </tspan>Percezione passiva 15</text>
   <text x="15" y="229" font-size="10.5" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Lingue: </tspan>Draconico, Comune</text>
 
@@ -44,26 +44,31 @@
   <text x="28" y="370" font-size="11" fill="#1a1a1a">Morso. Se colpisce, ottiene 3 PF temporanei.</text>
   <text x="18" y="390" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Forma Selvatica.</tspan> 2 usi per riposo breve/lungo. Trasformazione in bestia</text>
   <text x="28" y="405" font-size="11" fill="#1a1a1a">già vista (GS max 1/4, senza volo o nuoto), durata 1 ora. In</text>
-  <text x="28" y="420" font-size="11" fill="#1a1a1a">alternativa, spende un uso per attivare Entità Simbiotica.</text>
-  <text x="18" y="440" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Simbiosi.</tspan> Invece di tramutarsi, risveglia le spore per 10 minuti.</text>
-  <text x="28" y="455" font-size="11" fill="#1a1a1a">Guadagna 4 PF temporanei, Alone di Spore passa a 1d6, attacchi in</text>
-  <text x="28" y="470" font-size="11" fill="#1a1a1a">mischia infliggono 1d6 danni necrotici extra.</text>
-  <text x="18" y="490" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Cappa del Lightbringer.</tspan> +1 alle prove di Sopravvivenza (sintonia). Luce 1/riposo breve.</text>
-  <text x="18" y="510" font-size="11" fill="#1a1a1a">Incantesimi (Druido 2°, SAG +5, CD 13) 🅒concentrazione Ⓡrituale.</text>
-  <text x="28" y="525" font-size="11" fill="#1a1a1a">Trucchetti (∞): Produrre Fiamma, Guida 🅒, Tocco Gelido, Luce (Cappa). 1° livello (3</text>
-  <text x="28" y="540" font-size="11" fill="#1a1a1a">slot — prepara 5/giorno): Amicizia con gli Animali, Assorbire Elementi,</text>
-  <text x="28" y="555" font-size="11" fill="#1a1a1a">Bacche Buone, Camuffare Sé Stesso, Capire Linguaggi Ⓡ, Coltello di</text>
-  <text x="28" y="570" font-size="11" fill="#1a1a1a">Ghiaccio, Creare o Distruggere Acqua, Cura Ferite, Individuazione del</text>
-  <text x="28" y="585" font-size="11" fill="#1a1a1a">Magico 🅒 Ⓡ, Intralciare 🅒, Luminescenza 🅒, Nube di Nebbia 🅒, Onda</text>
-  <text x="28" y="600" font-size="11" fill="#1a1a1a">Tonante, Parlare con gli Animali Ⓡ, Parola Guaritrice, Passo Veloce,</text>
-  <text x="28" y="615" font-size="11" fill="#1a1a1a">Protezione dal Bene e dal Male 🅒, Purificare Cibo e Bevande Ⓡ, Rilevare</text>
-  <text x="28" y="630" font-size="11" fill="#1a1a1a">Malattie e Veleni Ⓡ, Saltare.</text><line x1="15" y1="655" x2="545" y2="655" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="671" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">AZIONI</text><line x1="15" y1="677" x2="545" y2="677" stroke="#8b1a1a" stroke-width="1.5"/>
-  <text x="18" y="685" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Cappa del Lightbringer — Luce.</tspan> Lancia Luce (trucchetto). 1/riposo breve.</text>
-  <text x="18" y="705" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Scimitarra.</tspan> Attacco con arma da mischia. +4 a colpire, gittata 1,5 m.</text>
-  <text x="28" y="720" font-size="11" fill="#1a1a1a">Danni: 5 (1d6+2) tagliente.</text>
-  <text x="18" y="740" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Morso.</tspan> Attacco naturale. +3 a colpire, gittata 1,5 m. Danni: 4 (1d6+1)</text>
-  <text x="28" y="755" font-size="11" fill="#1a1a1a">perforante.</text><line x1="15" y1="780" x2="545" y2="780" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="796" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">REAZIONI</text><line x1="15" y1="802" x2="545" y2="802" stroke="#8b1a1a" stroke-width="1.5"/>
-  <text x="18" y="810" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Alone di Spore.</tspan> Trigger: creatura si muove entro 3 m. 1d4 (o 1d6 con</text>
-  <text x="28" y="825" font-size="11" fill="#1a1a1a">Simbiosi) danni necrotici, TS COS CD 13 per annullare.</text>
+  <text x="28" y="420" font-size="11" fill="#1a1a1a">alternativa, spende un uso per attivare Entità Simbiotica o Compagno</text>
+  <text x="28" y="435" font-size="11" fill="#1a1a1a">Selvatico.</text>
+  <text x="18" y="455" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Compagno Selvatico.</tspan> Spende un uso di Forma Selvatica per lanciare Trova</text>
+  <text x="28" y="470" font-size="11" fill="#1a1a1a">Famiglio senza componenti materiali. Il famiglio è un folletto. Dura 1</text>
+  <text x="28" y="485" font-size="11" fill="#1a1a1a">ora (½ × lv. druido).</text>
+  <text x="18" y="505" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Simbiosi.</tspan> Invece di tramutarsi, risveglia le spore per 10 minuti.</text>
+  <text x="28" y="520" font-size="11" fill="#1a1a1a">Guadagna 8 PF temporanei (4 × lv. 2), Alone di Spore passa a 2d4,</text>
+  <text x="28" y="535" font-size="11" fill="#1a1a1a">attacchi in mischia infliggono 1d6 danni necrotici extra.</text>
+  <text x="18" y="555" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Cappa Strappata del Lightbringer.</tspan> +1 alle prove di Sopravvivenza</text>
+  <text x="28" y="570" font-size="11" fill="#1a1a1a">(sintonia). Concede Luce 1/riposo breve.</text>
+  <text x="18" y="590" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Incantesimi (Druido 2°, SAG +5, CD 13) 🅒concentrazione Ⓡrituale.</tspan></text>
+  <text x="28" y="605" font-size="11" fill="#1a1a1a">Trucchetti (∞): Produrre Fiamma, Guida🅒, Tocco Gelido. 1° livello (3</text>
+  <text x="28" y="620" font-size="11" fill="#1a1a1a">slot — prepara 5/giorno): Amicizia con gli Animali, Assorbire Elementi,</text>
+  <text x="28" y="635" font-size="11" fill="#1a1a1a">Bacche Buone, Coltello di Ghiaccio, Creare o Distruggere Acqua, Cura</text>
+  <text x="28" y="650" font-size="11" fill="#1a1a1a">Ferite, Individuazione del Magico🅒Ⓡ, Intralciare🅒, Luminescenza🅒, Nube</text>
+  <text x="28" y="665" font-size="11" fill="#1a1a1a">di Nebbia🅒, Onda Tonante, Parlare con gli AnimaliⓇ, Parola Guaritrice,</text>
+  <text x="28" y="680" font-size="11" fill="#1a1a1a">Passo Veloce, Protezione dal Bene e dal Male🅒, Purificare Cibo e</text>
+  <text x="28" y="695" font-size="11" fill="#1a1a1a">BevandeⓇ, Individuazione delle Malattie e dei Veleni🅒Ⓡ, Saltare.</text><line x1="15" y1="720" x2="545" y2="720" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="736" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">AZIONI</text><line x1="15" y1="742" x2="545" y2="742" stroke="#8b1a1a" stroke-width="1.5"/>
+  <text x="18" y="750" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Cappa Strappata del Lightbringer — Luce.</tspan> Lancia Luce (trucchetto).</text>
+  <text x="28" y="765" font-size="11" fill="#1a1a1a">1/riposo breve.</text>
+  <text x="18" y="785" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Scimitarra.</tspan> Attacco con arma da mischia. +4 a colpire, gittata 1,5 m.</text>
+  <text x="28" y="800" font-size="11" fill="#1a1a1a">Danni: 5 (1d6+2) tagliente.</text>
+  <text x="18" y="820" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Morso.</tspan> Attacco naturale. +3 a colpire, gittata 1,5 m. Danni: 4 (1d6+1)</text>
+  <text x="28" y="835" font-size="11" fill="#1a1a1a">perforante.</text><line x1="15" y1="860" x2="545" y2="860" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="876" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">REAZIONI</text><line x1="15" y1="882" x2="545" y2="882" stroke="#8b1a1a" stroke-width="1.5"/>
+  <text x="18" y="890" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Alone di Spore.</tspan> Trigger: creatura si muove entro 3 m. 1d4 (o 2d4 con</text>
+  <text x="28" y="905" font-size="11" fill="#1a1a1a">Simbiosi) danni necrotici, TS COS CD 13 per annullare.</text>
 
 </svg>

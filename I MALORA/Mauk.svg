@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="720" font-family="Georgia, serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="835" font-family="Georgia, serif">
 
-  <rect width="560" height="720" fill="#f5e6c8" rx="8"/>
-  <rect x="5" y="5" width="550" height="710" fill="none" stroke="#8b1a1a" stroke-width="2.5" rx="6"/>
+  <rect width="560" height="835" fill="#f5e6c8" rx="8"/>
+  <rect x="5" y="5" width="550" height="825" fill="none" stroke="#8b1a1a" stroke-width="2.5" rx="6"/>
 
   <clipPath id="clip-Mauk">
     <rect x="402" y="12" width="150" height="240" rx="4"/>
@@ -10,7 +10,7 @@
          preserveAspectRatio="xMidYMid slice" clip-path="url(#clip-Mauk)"/>
   <rect x="402" y="12" width="150" height="240" fill="none" stroke="#8b1a1a" stroke-width="1.5" rx="4"/>
 
-  <text x="196" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">Mauk</text>
+  <text x="196" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">🩸 Mauk</text>
   <text x="196" y="55" text-anchor="middle" font-size="11" font-style="italic" fill="#555555">Tiefling/Dhampir / Warlock 2 — Patrono del Morto</text>
   <text x="196" y="69" text-anchor="middle" font-size="11" fill="#555555">Neutrale</text>
 
@@ -19,7 +19,7 @@
   <text x="98" y="93" text-anchor="middle" font-size="11" fill="#8b1a1a" font-weight="bold">CA</text>
   <text x="98" y="110" text-anchor="middle" font-size="16" fill="#1a1a1a">12</text>
   <text x="196" y="93" text-anchor="middle" font-size="11" fill="#8b1a1a" font-weight="bold">PF</text>
-  <text x="196" y="110" text-anchor="middle" font-size="16" fill="#1a1a1a">15 (2d8+4)</text>
+  <text x="196" y="110" text-anchor="middle" font-size="16" fill="#1a1a1a">15</text>
   <text x="294" y="93" text-anchor="middle" font-size="11" fill="#8b1a1a" font-weight="bold">VEL</text>
   <text x="294" y="110" text-anchor="middle" font-size="12" fill="#1a1a1a">9 m</text>
 
@@ -40,21 +40,28 @@
   <text x="18" y="300" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Scurovisione.</tspan> Vede in luce fioca entro 18 m come se fosse luce intensa.</text>
   <text x="18" y="320" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Resistenza Infernale.</tspan> Resistenza ai danni da fuoco.</text>
   <text x="18" y="340" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Resistenza dei Non Morti.</tspan> Vantaggio ai TS contro malattie.</text>
-  <text x="18" y="360" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Incantesimi da Patto (Warlock 2°, CAR +5, CD 13) 🅒concentrazione.</tspan></text>
-  <text x="28" y="375" font-size="11" fill="#1a1a1a">Trucchetti (∞): Deflagrazione Occulta, Rintocco dei Morti. 1° livello (2</text>
-  <text x="28" y="390" font-size="11" fill="#1a1a1a">slot — recupero riposo breve): Sortilegio 🅒, Braccia di Hadar, Armatura</text>
-  <text x="28" y="405" font-size="11" fill="#1a1a1a">di Agathys.</text>
-  <text x="18" y="425" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Sete di Sangue (Dhampir).</tspan> Come azione bonus, morde una creatura</text>
-  <text x="28" y="440" font-size="11" fill="#1a1a1a">incapacitata o disposta entro 1,5 m. 1d6+1 danni perforanti, recupera PF</text>
-  <text x="28" y="455" font-size="11" fill="#1a1a1a">pari ai danni inflitti.</text>
-  <text x="18" y="475" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Forma Terrificante.</tspan> Come azione bonus, assume l&#x27;aspetto del non morto</text>
-  <text x="28" y="490" font-size="11" fill="#1a1a1a">per 1 minuto. Creature a scelta entro 9 m: TS SAG CD 13 o spaventate.</text>
-  <text x="28" y="505" font-size="11" fill="#1a1a1a">1/riposo lungo.</text><line x1="15" y1="530" x2="545" y2="530" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="546" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">AZIONI</text><line x1="15" y1="552" x2="545" y2="552" stroke="#8b1a1a" stroke-width="1.5"/>
-  <text x="18" y="560" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Pugnale.</tspan> Attacco con arma da mischia o a distanza. +3 a colpire, gittata</text>
-  <text x="28" y="575" font-size="11" fill="#1a1a1a">6/18 m. Danni: 3 (1d4+1) perforante.</text>
-  <text x="18" y="595" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Deflagrazione Occulta.</tspan> +5 a colpire, gittata 36 m. Danni: 5 (1d10)</text>
-  <text x="28" y="610" font-size="11" fill="#1a1a1a">forza.</text><line x1="15" y1="635" x2="545" y2="635" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="651" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">AZIONI BONUS</text><line x1="15" y1="657" x2="545" y2="657" stroke="#8b1a1a" stroke-width="1.5"/>
-  <text x="18" y="665" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Sete di Sangue.</tspan> Morde creatura incapacitata/disposta entro 1,5 m. 1d6+1</text>
-  <text x="28" y="680" font-size="11" fill="#1a1a1a">perforante, recupera i PF inflitti.</text>
+  <text x="18" y="360" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Natura Immortale.</tspan> Non deve respirare.</text>
+  <text x="18" y="380" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Incantesimi da Patto (Warlock 2°, CAR +5, CD 13) 🅒concentrazione.</tspan></text>
+  <text x="28" y="395" font-size="11" fill="#1a1a1a">Trucchetti (∞): Deflagrazione Occulta, Rintocco dei Morti. 1° livello (2</text>
+  <text x="28" y="410" font-size="11" fill="#1a1a1a">slot — recupero riposo breve): Sortilegio🅒, Braccia di Hadar, Armatura</text>
+  <text x="28" y="425" font-size="11" fill="#1a1a1a">di Agathys.</text>
+  <text x="18" y="445" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Suppliche Occulte.</tspan> Deflagrazione Agonizzante: aggiunge +3 (CAR) ai danni</text>
+  <text x="28" y="460" font-size="11" fill="#1a1a1a">di Deflagrazione Occulta per ogni raggio che colpisce. Deflagrazione</text>
+  <text x="28" y="475" font-size="11" fill="#1a1a1a">Respingente: su colpo con Deflagrazione Occulta, spinge il bersaglio</text>
+  <text x="28" y="490" font-size="11" fill="#1a1a1a">fino a 3 m in linea retta.</text>
+  <text x="18" y="510" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Incantesimi del Patrono (Non Morto).</tspan> 1°: Anatema, Vita Falsata — sempre</text>
+  <text x="28" y="525" font-size="11" fill="#1a1a1a">preparati, non contano sul limite degli incantesimi noti.</text><line x1="15" y1="550" x2="545" y2="550" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="566" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">AZIONI</text><line x1="15" y1="572" x2="545" y2="572" stroke="#8b1a1a" stroke-width="1.5"/>
+  <text x="18" y="580" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Pugnale.</tspan> Attacco con arma da mischia o a distanza. +3 a colpire, gittata</text>
+  <text x="28" y="595" font-size="11" fill="#1a1a1a">6/18 m. Danni: 3 (1d4+1) perforante.</text>
+  <text x="18" y="615" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Deflagrazione Occulta.</tspan> Attacco con incantesimo a distanza. +5 a colpire,</text>
+  <text x="28" y="630" font-size="11" fill="#1a1a1a">gittata 36 m. Danni: 8 (1d10+3) forza.</text>
+  <text x="18" y="650" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Sete di Sangue (Dhampir).</tspan> Attacco con arma da mischia naturale. +4 a</text>
+  <text x="28" y="665" font-size="11" fill="#1a1a1a">colpire (COS), gittata 1,5 m. Danni: 4 (1d4+2) perforante. 2/RL:</text>
+  <text x="28" y="680" font-size="11" fill="#1a1a1a">recupera PF = danni inflitti oppure ottieni bonus al prossimo</text>
+  <text x="28" y="695" font-size="11" fill="#1a1a1a">attacco/prova = danni. Vantaggio se a ≤ metà PF.</text><line x1="15" y1="720" x2="545" y2="720" stroke="#8b1a1a" stroke-width="1.5"/><text x="280" y="736" text-anchor="middle" font-size="12" fill="#8b1a1a" font-weight="bold">AZIONI BONUS</text><line x1="15" y1="742" x2="545" y2="742" stroke="#8b1a1a" stroke-width="1.5"/>
+  <text x="18" y="750" font-size="11" fill="#1a1a1a"><tspan font-weight="bold" fill="#8b1a1a">Forma Terrificante.</tspan> 1 minuto. Ottieni 7 (1d10+2) PF temporanei. Una</text>
+  <text x="28" y="765" font-size="11" fill="#1a1a1a">volta per turno quando colpisci: puoi forzare TS SAG CD 13 — fallisce:</text>
+  <text x="28" y="780" font-size="11" fill="#1a1a1a">spaventato fino a fine del tuo prossimo turno. Immunità alla condizione</text>
+  <text x="28" y="795" font-size="11" fill="#1a1a1a">spaventato. 2/riposo lungo.</text>
 
 </svg>

@@ -38,14 +38,14 @@
 ## Risorse
 ### Slot 1°
 *4/riposo lungo*
-- [ ] I
+- [x] I
 - [ ] I
 - [ ] I
 - [ ] I
 
 ### Slot 2°
 *2/riposo lungo*
-- [ ] II
+- [x] II
 - [ ] II
 
 ### Ispirazione Bardica
@@ -94,6 +94,11 @@
 -
 
 ### Note di gioco
-- Ha mostrato una natura sadica durante l'interrogatorio di Tommy Hale (A3S12) — evento che l'ha turbata.
-- È partita in solitaria per Hardbuckler (A3S13), dove ha incontrato la maga Nela Inchtarwurn.
 - Nel sogno condiviso del 1900 DR era Aerin Mess.
+- Vendicativa: ha mostrato una natura sadica durante l'interrogatorio di Tommy Hale
+- L'intrapendenza: al galoppo con Furia è partita in solitaria per Hardbuckler. 
+- Amicizie che contano: ha incontrato la maga Nela Inchtarwurn.
+
+## Link a scheda PDF
+
+https://drive.google.com/file/d/15tOfu79fr_SqxcMs9k6toUG0bOcC8fk1/view?usp=drive_link

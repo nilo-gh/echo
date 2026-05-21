@@ -1,3 +1,5 @@
+![Paulie](Paulie.svg)
+
 # Paulie Locke
 
 > **Descrizione**
@@ -17,6 +19,9 @@
 
 > **Privilegio** — Ricercatore
 > Sa sempre dove cercare — archivi accademici, studiosi ai margini, custodi di saperi dimenticati. Chiunque abbia risposto a domande simili prima di lei, sa come trovarlo. Più la domanda è scomoda, più la risposta è nascosta.
+
+---
+
 
 ---
 
@@ -58,10 +63,10 @@
 
 ### Interdizione Arcana
 1. *Usa un incantesimo di abiurazione*
-2. *PF Interdizione = 2 × Lv. Mago + INT*
+2. *PF Interdizione = 2 × Lv. Mago + INT*
 3. *Ricarica = 2 x lv. incantesimo*
 
-| PF Interdizione Arcana |  9  |
+| PF Interdizione Arcana | |
 | :--------------------: | :-: |
 
 ### Recupero Arcano
@@ -86,7 +91,7 @@
 
 | mr | ma | mo | mp | me |
 | -- | -- | -- | -- | -- |
-|    |    | 160 |   |    |
+| | | 160 | | |
 
 | Oggetto | Peso | Note |
 | --- | --- | --- |
@@ -126,6 +131,21 @@
 
 ## Narrativa
 
+### Alleati
+- Constance Locke — madre
+- Jason — amico di famiglia, figura paterna
+
+### Legami
+- Cerca le risposte su cosa sia successo nella stanza della fabbrica e chi fosse l'uomo nelle visioni.
+- Sente che il mistero della stanza sia collegato al segreto di Constance sul padre mai conosciuto.
+
+### Nemici
+-
+
+### Note di gioco
+- Nella prima sessione "Lo specchio e la nebbia era 🌫️ Aerin Mess, che ha assistito alla morte di sua madre.
+- Nel sogno c'era un uomo con lo stesso sguardo dell'uomo nelle visioni della stanza della fabbrica.
+
 ### Background
 
 *"Cos'è dunque il tempo? Se nessuno me lo chiede, lo so; se voglio spiegarlo a qualcuno che me lo chiede, non lo so più."*
@@ -142,15 +162,6 @@
 
 **La ricerca.** Diplomata a 30 anni con ottimi voti, Paulie partì. Le risposte che cercava — chi era l'uomo nelle visioni, cosa fosse quella voce — non erano nell'Accademia. Sente che il mistero della stanza e il segreto di Constance sul padre siano, in qualche modo, la stessa cosa.
 
----
+## Link a scheda PDF
 
-### Alleati
-- Constance Locke — madre
-- Jason — amico di famiglia, figura paterna
-
-### Legami
-- Cerca le risposte su cosa sia successo nella stanza della fabbrica e chi fosse l'uomo nelle visioni.
-- Sente che il mistero della stanza sia collegato al segreto di Constance sul padre mai conosciuto.
-
-### Nemici
--
+https://drive.google.com/file/d/1_qfq7FzmxMgIxXVigfa9vcaIkxB_o4mJ/view?usp=drive_link

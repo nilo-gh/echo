@@ -8,6 +8,10 @@ LUOGO: Hardbuckler
 
 #### 🧙 Nela Inchtarwurn — *Gnoma giovane · Maga residente*
 
+*Non è la maga più anziana che abbiate incontrato. Ma il nome Inchtarwurn ad Hardbuckler non ha bisogno di presentazioni.*
+
+![Nela - Edna](ALLEGATI/Nela%20-%20Edna.png)
+
 **Descrizione** — Media statura per una gnoma. Capelli neri tagliati netti a caschetto. Porta i bracciali di famiglia sempre ben in vista, come un segno di carica. Occhiali rotondi.
 
 **Voce** — Acuta e di buona compagnia. Ride spesso e con una sincerità squillante: *"Ahahahah."*

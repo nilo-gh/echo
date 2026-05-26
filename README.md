@@ -12,6 +12,7 @@ Qui trovate tutto ciò che la campagna ha messo nelle vostre mani — nomi, luog
 | `INVENTARIO 📦/` | Oggetti trovati — armi, armature, curiosità magiche |
 | `Il taqquino di Volo/` | Cronache di Volothamp Geddarm — la campagna vista da altrove |
 | `MARLOW NEWS 🗞️/` | Il giornale di Marlow — notizie, voci e cronache dalla città |
+| `SESSIONI 🎲/` | Quello che è successo — sessione per sessione |
 
 📖 [Diario ✒️](Diario%20✒️.md) — la storia finora, arco per arco.
 

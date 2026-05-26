@@ -1,6 +1,6 @@
 # Fili narrativi
 
-*Aggiornato: 2026-05-18*
+*Aggiornato: 2026-05-26*
 
 ---
 
@@ -12,6 +12,9 @@
 - Enebor rifiuta l'annessione
 - Origini della guerra tra Semprosa ed Enebor
 - Padre Merrikson non vuole il culto di Pelor cancellato dal Culto Unificato ATU
+- Tillus ammette di aver corrisposto con Aris Thorne per l'ingresso di Welton nell'ATU
+- Registri corrispondenza Tommy–K.C.–Aris Thorne agli atti di Darro ad Hardbuckler
+- Pizzino K.C.: ordine di eliminare Alexi Merrikson, Padre Merrikson come problema secondario per un certo A.T.
 
 **Scelte**
 - *Nessuna scelta*
@@ -65,6 +68,10 @@
 - Trovata una mappa verso un'isoletta nel Mare delle stelle cadenti annotata "villaggio Milo, Banteth Slatebeard"
 - Nela Inchtarwurn conosceva Alexi e gestisce uno dei caveau più sicuri del Faerûn
 - {'Diario di Alexi': '3 pagine tra Helmio e Tyrio 2025 — regalo per Banteth, oggetto nascosto, tre notti insonni'}
+- Simbolo Occhio e Mano sullo scrigno oscuro identificato da Padre Merrikson come marchio dei seguaci di Vecna
+- Pizzino K.C. consegnato a Darro: ordine di eliminare Alexi Merrikson, Padre Merrikson come problema secondario per un certo A.T., souvenir via G.V. dell'ufficio postale
+- Registri corrispondenza Tommy–K.C.–Aris Thorne agli atti di Darro ad Hardbuckler
+- Tommy Gerren Voss resiste alla pozione di verità di Nela (TS COS CD 11: 11 e 15)
 
 **Scelte**
 - Accettare Corel come guida
@@ -72,11 +79,13 @@
 - Catturare Larik Doss
 - Scassinare Westley Farm
 - Skinard lascia la Cappa a terra, il portale si apre e l'ombra si ricongiunGe al corpo di Alexi
+- Consegnato il pizzino K.C. a Darro nonostante fosse l'ultima prova rimasta
 
 ### La sete del Dhampir
 
 **Tracce**
 - Mauk si sente chiamare in sogno, una mano gli stringe lo stomaco e manifesta una fame di sangue incontrollata
+- A03S18: mentre parla di Kas e Vecna, sente di nuovo la mano invisibile stringergli lo stomaco — avvertimento a non rivelare troppo
 
 **Scelte**
 - Mauk resiste alla sete di sangue
@@ -110,36 +119,10 @@
 - Trovato uno scrigno magico nella casa di Alexi, chiuso con alloggio per chiave a forma di simbolo di stregone magia selvaggia
 - La chiave dello scrigno magico non è stata trovata
 - I due scrigni sono custoditi dai lupi nella tana
+- Simbolo Occhio e Mano sullo scrigno oscuro identificato da Padre Merrikson come marchio dei seguaci di Vecna
 
 **Scelte**
 - Gli scrigni vengono affidati ai lupi
-
-### Lupi a Welton
-
-**Tracce**
-- Annuncio caccia ai lupi
-- Dicerie sui lupi scaltri
-- Fumo dalla montagna
-- Tracce dei lupi verso ovest
-- Ululati nel bosco
-- Parla in sogno a Fiamma e Lampo
-- Sirio parla
-- Skinard e il flashback negli occhi di Sirio; Alexi contro gli assassini
-- Accordo stipulato: i lupi ricevono 1 pecora a settimana in inverno, smettono di attaccare le greggi
-- I lupi custodiscono lo scrigno magico e lo scrigno oscuro di Alexi
-- I lupi cedono la Cappa del Lightbringer al gruppo
-
-**Scelte**
-- Accettare Corel come guida
-- Accompagnare i pastori a Welton
-- Catturare Larik Doss
-- Dirigersi verso Welton
-- Evitare lo scontro con l'orsogufo
-- Scassinare Westley Farm
-- Skinard divora un lupo
-- Valutare la taglia sui lupi
-- Il gruppo stipula un accordo di convivenza con i lupi
-- Gli scrigni di Alexi vengono affidati ai lupi
 
 ### Lyria Vandel torna sul palco
 
@@ -159,15 +142,18 @@
 - Investigare sulle mareggiate a Trabalus
 - Verso Trabalus
 
-### Portali
+### Sentiero delle Nebbie
 
 **Tracce**
-- Alla locanda di Hardbuckler compare un portale di luce blu da cui escono 2 guardie
+- L'uomo misterioso accanto ad Alexi rivela che si accede alla sua dimensione attraverso le nebbie di Trabalus
+- Kolì sente parlare del Sentiero delle Nebbie da Nela ad Hardbuckler
+- Dane Okafor usa il Sentiero per raggiungere Welton; il gruppo può usarlo entro 24 ore
+- Darro: dalla rete di Hardbuckler si raggiungono molte parti del Faerûn con la dovuta pianificazione e 2 giorni di preparazione
 
 **Scelte**
 - *Nessuna scelta*
 
-### Spie a Welton
+### Zhentarim
 
 **Tracce**
 - Il canale di Larik Doss è Tommy Hale
@@ -180,7 +166,10 @@
 - Trovata corrispondenza tra Gerren Voss e A.T. all'ufficio postale
 - Gli Zhentarim stanno espandendo contrabbando e corruzione nell'ATU (confermato da Nela Inchtarwurn)
 - Carl invia missiva a Naaz per informazioni sulle sigle del pizzino (K.C., A.T., G.V.)
+- Aris Thorne sospettato di contatti con gli Zhentarim
 - Darro manda 2 guardie a prelevare Tommy da Welton
+- Pizzino K.C. consegnato a Darro: ordine di eliminare Alexi Merrikson, souvenir via G.V. dell'ufficio postale
+- Registri corrispondenza Tommy–K.C.–Aris Thorne agli atti di Darro ad Hardbuckler
 
 **Scelte**
 - Catturare Larik Doss
@@ -270,3 +259,31 @@
 - Seguire una strada meno battuta per evitare le pattuglie GATU
 - Valutare la fuga verso Marinella
 - Accettare la proposta di Lyrin, liberare Belma, in cambio di fuga.
+
+### Lupi a Welton
+
+**Tracce**
+- Annuncio caccia ai lupi
+- Dicerie sui lupi scaltri
+- Fumo dalla montagna
+- Tracce dei lupi verso ovest
+- Ululati nel bosco
+- Parla in sogno a Fiamma e Lampo
+- Sirio parla
+- Skinard e il flashback negli occhi di Sirio; Alexi contro gli assassini
+- Accordo stipulato: i lupi ricevono 1 pecora a settimana in inverno, smettono di attaccare le greggi
+- I lupi custodiscono lo scrigno magico e lo scrigno oscuro di Alexi
+- Il patto è sigillato — Lampo stringe l'accordo di persona con Tillus
+- I lupi cedono la Cappa del Lightbringer al gruppo
+
+**Scelte**
+- Accettare Corel come guida
+- Accompagnare i pastori a Welton
+- Catturare Larik Doss
+- Dirigersi verso Welton
+- Evitare lo scontro con l'orsogufo
+- Scassinare Westley Farm
+- Skinard divora un lupo
+- Valutare la taglia sui lupi
+- Il gruppo stipula un accordo di convivenza con i lupi
+- Gli scrigni di Alexi vengono affidati ai lupi

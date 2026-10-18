@@ -11,9 +11,11 @@
 
 - [Annessioni ATU](#annessioni-atu)
 - [Gli articoli del Marlow News](#gli-articoli-del-marlow-news)
+- [Il medaglione delle ossa](#il-medaglione-delle-ossa)
 - [La forza della GATU](#la-forza-della-gatu)
 - [La scomparsa di Alexi](#la-scomparsa-di-alexi)
 - [La sete del Dhampir](#la-sete-del-dhampir)
+- [La storia della Guerra di Enebor](#la-storia-della-guerra-di-enebor)
 - [Le manifestazioni dell'Echo](#le-manifestazioni-dellecho)
 - [Lo scrigno oscuro](#lo-scrigno-oscuro)
 - [Sentiero delle Nebbie](#sentiero-delle-nebbie)
@@ -53,6 +55,23 @@
 - Verso il concerto di Lyria Vandel
 - Verso Trabalus
 - Kolì invia Missiva per Marlow News
+
+### Il medaglione delle ossa
+
+**Tracce**
+- Il medaglione è magico
+- "Il medaglione raccolto risveglia gli scheletri"
+- La catena di luce e di lettere del medaglione
+- Quando [🧚 Kolì] raccoglie il medaglione di Aerin Mess tra le ossa, i cinque scheletri (i corpi dei PG nell'arco di Enebor) si animano e attaccano
+- Il medaglione di Aerin Mess, raccolto da 🧚 Kolì tra le ossa nella sessione precedente, le concede l'incantesimo Parlare con i Morti
+- Mr Bones fa sempre una domanda
+- Nella visione che accompagna la scoperta, 🧚 Kolì incontra un'entità scheletrica gigantesca che si presenta come Mr. Bones
+- Mr. Bones è il Dio Jergal
+- Il medaglione di Mr. Bones sblocca per Kolì un secondo incantesimo selezionabile al giorno: Vita Falsata
+
+**Scelte**
+- Aerin raccoglie il medaglione delle ossa.
+- Kolì raccoglie il medaglione dalle spoglie di Aerin
 
 ### La forza della GATU
 
@@ -113,6 +132,35 @@
 **Scelte**
 - Mauk resiste alla sete di sangue
 - Mauk per placare la sua sete, caccia nel bosco, per non mettere in pericolo i compagni
+
+### La storia della Guerra di Enebor
+
+**Tracce**
+- I terremoti non sono naturali
+- Il sogno di Enebor
+- La miniera crollata
+- Navi GATU risalgono il fiume
+- Origini della guerra tra Semprosa ed Enebor
+- Qualcuno opera dietro le linee nemiche
+- Terremoti di Enebor
+- Sorin, nano barbaro, torna a quella che fu la sua casa a Enebor dopo quasi cent'anni: alla domanda sul perché sia stato via così a lungo risponde solo 'Non per mia volontà' — motivo non chiarito
+- Il flashback del terremoto nella cucina nanica è rivissuto da 🕰️ Paulie nei panni di Erin (🌫️ Aerin Mess) — identico al sogno ricorrente di 🧚 Kolì; Sorin riconosce gli stessi luoghi solo come ex abitante, senza componente onirica
+- La sala dei carrelli minerari nanici conduce a sud verso le nebbie di Trabalus, dove sono dispersi Alexi e un misterioso uomo barbuto; il carrello richiede vapore dalla forgia per muoversi
+- Sorin ritrova il suo vecchio amico Hargrin Slatebeard, cuoco sopravvissuto alla caduta di Enebor e ora Anziano del Consiglio dei Barbalunga a Milo: erano coetanei e amici da prima della guerra, e Hargrin lo credeva morto da un secolo
+- Sorin racconta la propria prigionia: catturato nella disfatta di Enebor, è stato tenuto schiavo per un secolo ai lavori forzati in una miniera, fuggito con un piccolo gruppo di compagni — altri prigionieri potrebbero essere ancora schiavi là
+- Sorin non sa dire se Thorin sia sopravvissuto — non ha sue notizie da prima della cattura
+- Nella Galleria dei Valorosi della Caverna degli Anziani, Sorin riconosce tra i volti scolpiti quello di Kyle, ex compagno monaco di colore, ferito e disperso durante uno scontro mentre proteggeva una carovana di nani in fuga — nessuna notizia sulla sua sorte
+- Il volto di Sorin stesso è scolpito nella Galleria dei Valorosi, tra i Testimoni della Pietra — creduto morto per un secolo
+
+**Scelte**
+- Aiutare la carovana nanica
+- Evitare lo scontro con l'orsogufo
+- Difendere la carovana dai banditi
+- Seguire i nani verso sud invece di unirsi al contrattacco
+- Seguire una strada meno battuta per evitare le pattuglie GATU
+- Soccorrere Torvak sotto le macerie
+- Accogliere Sorin nel gruppo su due piedi
+- Skinard tenere le otto mani di pietra e lasciare le monete del secondo forziere incustodite sul posto, poi tornare a recuperarle
 
 ### Le manifestazioni dell'Echo
 
@@ -214,10 +262,8 @@
 ## Inattivo
 
 - [Gli elfling Lyrin e Belma](#gli-elfling-lyrin-e-belma)
-- [Il medaglione delle ossa](#il-medaglione-delle-ossa)
 - [Il nobile farabutto](#il-nobile-farabutto)
 - [La storia del popolo Elfling](#la-storia-del-popolo-elfling)
-- [La storia della Guerra di Enebor](#la-storia-della-guerra-di-enebor)
 - [Lyria Vandel torna sul palco](#lyria-vandel-torna-sul-palco)
 
 ### Gli elfling Lyrin e Belma
@@ -230,23 +276,6 @@
 **Scelte**
 - Accettare la proposta di Lyrin, liberare Belma, in cambio di fuga.
 - Aerin accetta la pozione di Lyrin e Belma
-
-### Il medaglione delle ossa
-
-**Tracce**
-- Il medaglione è magico
-- "Il medaglione raccolto risveglia gli scheletri"
-- La catena di luce e di lettere del medaglione
-- Quando [🧚 Kolì] raccoglie il medaglione di Aerin Mess tra le ossa, i cinque scheletri (i corpi dei PG nell'arco di Enebor) si animano e attaccano
-- Il medaglione di Aerin Mess, raccolto da 🧚 Kolì tra le ossa nella sessione precedente, le concede l'incantesimo Parlare con i Morti
-- Mr Bones fa sempre una domanda
-- Nella visione che accompagna la scoperta, 🧚 Kolì incontra un'entità scheletrica gigantesca che si presenta come Mr. Bones
-- Mr. Bones è il Dio Jergal
-- Il medaglione di Mr. Bones sblocca per Kolì un secondo incantesimo selezionabile al giorno: Vita Falsata
-
-**Scelte**
-- Aerin raccoglie il medaglione delle ossa.
-- Kolì raccoglie il medaglione dalle spoglie di Aerin
 
 ### Il nobile farabutto
 
@@ -267,35 +296,6 @@
 
 **Scelte**
 - Chiedere a Lyrin la verità sulla statuetta Efebo
-
-### La storia della Guerra di Enebor
-
-**Tracce**
-- I terremoti non sono naturali
-- Il sogno di Enebor
-- La miniera crollata
-- Navi GATU risalgono il fiume
-- Origini della guerra tra Semprosa ed Enebor
-- Qualcuno opera dietro le linee nemiche
-- Terremoti di Enebor
-- Sorin, nano barbaro, torna a quella che fu la sua casa a Enebor dopo quasi cent'anni: alla domanda sul perché sia stato via così a lungo risponde solo 'Non per mia volontà' — motivo non chiarito
-- Il flashback del terremoto nella cucina nanica è rivissuto da 🕰️ Paulie nei panni di Erin (🌫️ Aerin Mess) — identico al sogno ricorrente di 🧚 Kolì; Sorin riconosce gli stessi luoghi solo come ex abitante, senza componente onirica
-- La sala dei carrelli minerari nanici conduce a sud verso le nebbie di Trabalus, dove sono dispersi Alexi e un misterioso uomo barbuto; il carrello richiede vapore dalla forgia per muoversi
-- Sorin ritrova il suo vecchio amico Hargrin Slatebeard, cuoco sopravvissuto alla caduta di Enebor e ora Anziano del Consiglio dei Barbalunga a Milo: erano coetanei e amici da prima della guerra, e Hargrin lo credeva morto da un secolo
-- Sorin racconta la propria prigionia: catturato nella disfatta di Enebor, è stato tenuto schiavo per un secolo ai lavori forzati in una miniera, fuggito con un piccolo gruppo di compagni — altri prigionieri potrebbero essere ancora schiavi là
-- Sorin non sa dire se Thorin sia sopravvissuto — non ha sue notizie da prima della cattura
-- Nella Galleria dei Valorosi della Caverna degli Anziani, Sorin riconosce tra i volti scolpiti quello di Kyle, ex compagno monaco di colore, ferito e disperso durante uno scontro mentre proteggeva una carovana di nani in fuga — nessuna notizia sulla sua sorte
-- Il volto di Sorin stesso è scolpito nella Galleria dei Valorosi, tra i Testimoni della Pietra — creduto morto per un secolo
-
-**Scelte**
-- Aiutare la carovana nanica
-- Evitare lo scontro con l'orsogufo
-- Difendere la carovana dai banditi
-- Seguire i nani verso sud invece di unirsi al contrattacco
-- Seguire una strada meno battuta per evitare le pattuglie GATU
-- Soccorrere Torvak sotto le macerie
-- Accogliere Sorin nel gruppo su due piedi
-- Skinard tenere le otto mani di pietra e lasciare le monete del secondo forziere incustodite sul posto, poi tornare a recuperarle
 
 ### Lyria Vandel torna sul palco
 

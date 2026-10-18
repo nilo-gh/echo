@@ -1,12 +1,3 @@
----
-NOME: Liuto dell'Amicizia
-CATEGORIA: Strumento musicale
-PESO: —
-COSTO: 20 mo
-REPERIBILITA: comune
-RICHIEDE_SINTONIA: false
----
-
 # Liuto dell'Amicizia
 
 *Non è magico. Ma a volte basta una canzone imparata in una sera per legare un gruppo.*

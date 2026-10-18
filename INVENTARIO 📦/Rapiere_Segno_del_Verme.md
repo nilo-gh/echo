@@ -1,16 +1,3 @@
----
-NOME: Rapiere Segno del Verme
-CATEGORIA: Arma marziale
-PESO: 1
-COSTO: 85 mo
-REPERIBILITA: non comune
-RICHIEDE_SINTONIA: false
-EFFETTI:
-  - "Piercing Strike (1/riposo breve)"
-  - "Weakening Strike (1/riposo breve)"
-  - "Flourish (1/riposo breve)"
----
-
 # Rapiere Segno del Verme
 
 *Non tutte le lame portano un nome che si vorrebbe dimenticare.*

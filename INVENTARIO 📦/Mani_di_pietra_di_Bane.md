@@ -1,10 +1,3 @@
----
-NOME: Mani di pietra di Bane
-CATEGORIA: Set di otto mani di pietra scolpite (possibili focus arcani)
-REPERIBILITA: raro
-RICHIEDE_SINTONIA: false
----
-
 # Mani di pietra di Bane
 
 *Otto mani di pietra, un solo simbolo — e nessuna risposta.*

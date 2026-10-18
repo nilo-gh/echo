@@ -1,15 +1,3 @@
----
-NOME: Cappa Strappata del Lightbringer
-CATEGORIA: mantello
-PESO: 2
-COSTO: inestimabile
-REPERIBILITA: unico
-RICHIEDE_SINTONIA: true
-EFFETTI:
-  - "Luce"
-  - "Sopravvivenza"
----
-
 # Cappa Strappata del Lightbringer
 
 *Bianca come la neve fresca — e come lei, non rimane dove l'hanno posata.*

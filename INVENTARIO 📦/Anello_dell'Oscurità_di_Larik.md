@@ -1,14 +1,3 @@
----
-NOME: Anello dell'Oscurità di Larik
-CATEGORIA: anello
-PESO: —
-COSTO: —
-REPERIBILITA: non comune
-RICHIEDE_SINTONIA: false
-EFFETTI:
-  - "Oscurità"
----
-
 # Anello dell'Oscurità di Larik
 
 *Alcuni gioielli attirano sguardi. Questo li inghiotte.*

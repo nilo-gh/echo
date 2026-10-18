@@ -14,8 +14,6 @@ Apparizione: catena di luce verde e lettere, uno scheletro con una piuma e una p
 
 Ad ogni apparizione ha posto una domanda e ha preso nota delle risposte di Kolì, concedendole ogni volta un nuovo incantesimo.
 
-| Incantesimo sbloccato | Domanda e risposta |
-|---|---|
-| *False Life* (1°) | "Cosa rende una vita autentica?" — Perseguire sempre il proprio ideale più alto. |
-| *Inflict Wounds* (1°) | "Quando il dolore diventa giustizia?" — Quando è utile al sommo bene di tutti. |
-| *Speak with Dead* (3°) | "Quale traccia lascia una vita dopo la morte?" — L'anima. |
+- *"Cosa rende una vita autentica?"* — Perseguire sempre il proprio ideale più alto. → **Vita Falsata**
+- *"Quando il dolore diventa giustizia?"* — Quando è utile al sommo bene di tutti. → **Infliggi Ferite**
+- *"Quale traccia lascia una vita dopo la morte?"* — L'anima. → **Parlare con i Morti**

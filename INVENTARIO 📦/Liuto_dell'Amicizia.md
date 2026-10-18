@@ -5,8 +5,6 @@ PESO: —
 COSTO: 20 mo
 REPERIBILITA: comune
 RICHIEDE_SINTONIA: false
-EFFETTI:
-  - "Canzone di Guarigione (1/riposo breve)"
 ---
 
 # Liuto dell'Amicizia
@@ -26,12 +24,7 @@ Liuto comune, acquistato per 20 monete d'oro dai nani di Milo. Kolì non lo sape
 | Costo | 20 mo |
 | Reperibilità | comune |
 | Richiede sintonia | — |
-| Effetti | Canzone di Guarigione (1/riposo breve) |
 
 ## Note
 
 I nani al banchetto hanno inciso il proprio nome sullo strumento, come ricordo della serata, e una frase: *"La differenza tra un conoscente e un amico è circa cento anni."*
-
-Il liuto risveglia, una volta per riposo breve, il potere di lanciare **Canzone di Guarigione** — Invocazione.
-- **Tempo di lancio:** 10 minuti · **Gittata:** 9 metri · **Componenti:** V (suonare una canzone) · **Durata:** 10 minuti
-- **Effetto:** le creature entro 9 metri recuperano 2d8 + modificatore di Carisma punti ferita.

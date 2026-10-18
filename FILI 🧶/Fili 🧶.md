@@ -2,6 +2,19 @@
 
 *Aggiornato: 2026-10-18*
 
+## Fili aperti
+
+- [Annessioni ATU](#annessioni-atu)
+- [Gli articoli del Marlow News](#gli-articoli-del-marlow-news)
+- [La forza della GATU](#la-forza-della-gatu)
+- [La scomparsa di Alexi](#la-scomparsa-di-alexi)
+- [La sete del Dhampir](#la-sete-del-dhampir)
+- [Le manifestazioni dell'Echo](#le-manifestazioni-dellecho)
+- [Lo scrigno oscuro](#lo-scrigno-oscuro)
+- [Sentiero delle Nebbie](#sentiero-delle-nebbie)
+- [Un topo ci spia](#un-topo-ci-spia)
+- [Zhentarim](#zhentarim)
+
 ---
 
 ## Attivo
@@ -18,10 +31,10 @@
 - L'ATU nasce nel 1600 DR da 5 città fondatrici: Kalimport, Waterdeep, Baldur's Gate, Neverwinter, Elturel
 - Periodo Buio (1492–1600 DR): storia quasi del tutto non tramandata — guerre continue, nessuna fonte sopravvissuta nell'accademia di Paulie
 - A.T. potrebbe essere Aris Thorne
-- "Aris Thorne sospettato di contatti con gli Zhentarim"
+- Aris Thorne sospettato di contatti con gli Zhentarim
 - Il canale di Larik Doss è Tommy Hale
 - Tommy Hale è Gerren Voss della SATU
-- {'Bandito interrogato con Parlare con i Morti (medaglione), il cadavere rivela': "gli Zhentarim destabilizzano zone di interesse per conto di dell'ATU, in cambio completa libertà nei propri traffici illeciti; presidiano quell'avamposto contro i nani; sono in dieci nell'accampamento; obiettivo dichiarato è espandere il proprio potere"}
+- Bandito interrogato con Parlare con i Morti (medaglione), il cadavere rivela: gli Zhentarim destabilizzano zone di interesse per conto di dell'ATU, in cambio completa libertà nei propri traffici illeciti; presidiano quell'avamposto contro i nani; sono in dieci nell'accampamento; obiettivo dichiarato è espandere il proprio potere
 
 **Scelte**
 - *Nessuna scelta*

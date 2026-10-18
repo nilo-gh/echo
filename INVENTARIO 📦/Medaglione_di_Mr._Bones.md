@@ -6,33 +6,16 @@
 
 Medaglione circolare legato al dio della morte. 4 cm di diametro, argento scuro ossidato, sospeso a una catena antica a maglia grezza. Oggetto unico al mondo. A prima vista si direbbe un simbolo sacro di Kelemvor o Myrkul.
 
-## La voce nel medaglione
+Apparizione: catena di luce verde e lettere, uno scheletro con una piuma e una pergamena tra i denti.
 
-Chi lo indossa riceve, a volte, visioni: una catena di luce e lettere, poi una figura — uno scheletro bianco dalle sfumature verdi. Se interpellato sul nome, risponde sempre allo stesso modo:
+![Mr. Bones](ALLEGATI/Mr._Bones.jpeg)
 
-> *"Puoi chiamarmi Mr. Bones."*
+## Le risposte di Kolì
 
-Alla prima apparizione, Mr. Bones chiama il portatore per nome e pone una domanda. La risposta data determina quale incantesimo il medaglione concede.
+Ad ogni apparizione ha posto una domanda e ha preso nota delle risposte di Kolì, concedendole ogni volta un nuovo incantesimo.
 
-### Domande poste e risposte date
-
-| Incantesimo assegnato | Domanda di Mr. Bones |
+| Incantesimo sbloccato | Domanda e risposta |
 |---|---|
 | *False Life* (1°) | "Cosa rende una vita autentica?" — Perseguire sempre il proprio ideale più alto. |
 | *Inflict Wounds* (1°) | "Quando il dolore diventa giustizia?" — Quando è utile al sommo bene di tutti. |
 | *Speak with Dead* (3°) | "Quale traccia lascia una vita dopo la morte?" — L'anima. |
-
-## Uso dell'oggetto
-
-Una volta per riposo lungo, chi è sintonizzato con il medaglione può lanciare l'incantesimo assegnato da Mr. Bones al livello minimo, senza componenti materiali.
-
-## Scheda
-
-| Campo | Valore |
-|---|---|
-| Tipo | Oggetto magico |
-| Peso | — |
-| Costo | 5.000 MO (stimato) |
-| Reperibilità | unico al mondo |
-| Richiede sintonia | ✓ |
-| Effetti | Incantesimo assegnato da Mr. Bones (1/riposo lungo) |

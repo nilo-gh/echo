@@ -1,10 +1,3 @@
----
-NOME: Hardbuckler
-SOTTOTIPO: Cittadina
-GOVERNO: Consiglio di Anziani + I Nascosti
-POPOLAZIONE: ~4.000 (gnomi della roccia; umani, halfling, mezzelfi)
----
-
 # 🏚️ Hardbuckler
 Un ladro in fuga di cui non ricordo il nome, senza riuscire a dileguarsi, disse: *"Questo posto è tutta un'unica grande viuzza!"* — e non aveva tutti i torti.
 

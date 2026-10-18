@@ -1,8 +1,3 @@
----
-NOME: Faerûn
-SOTTOTIPO: Continente
----
-
 # Faerûn
 
 ![Faerûn](ALLEGATI/Faerun.jpg)

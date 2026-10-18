@@ -1,8 +1,3 @@
----
-NOME: Costa della Spada
-SOTTOTIPO: Regione
----
-
 # Costa della Spada
 
 ![Costa della Spada](ALLEGATI/Costa%20della%20Spada.jpg)

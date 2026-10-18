@@ -1,13 +1,3 @@
----
-SOTTOTIPO: Area
-GOVERNO:
-POPOLAZIONE:
-  - Nani
-  - Umani
-  - Halfling
-  - Lupi senzienti
-aliases:
----
 # Welton
 
 ![Welton](ALLEGATI/Welton.jpg)

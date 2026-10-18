@@ -1,13 +1,3 @@
----
-NOME: Milo
-SOTTOTIPO: Villaggio
-GOVERNO: Consiglio dei Barbalunga
-POPOLAZIONE:
-  - Nani
-aliases:
-  - Villaggio di Milo
----
-
 # 🗺️ Milo
 
 *Villaggio nanico, non lo trovi per caso — e se arrivi, meglio che tu sappia aspettare: "la differenza tra un conoscente e un amico è circa un centinaio di anni."*

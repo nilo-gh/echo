@@ -1,9 +1,3 @@
----
-NOME: Casa di Alexi
-SOTTOTIPO: Dungeon
-LUOGO: Welton
----
-
 # Casa di Alexi
 
 Si trova all'inizio del boschetto a Nord-Ovest di Welton, circondata dagli alberi.

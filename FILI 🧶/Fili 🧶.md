@@ -2,7 +2,12 @@
 
 *Aggiornato: 2026-10-18*
 
-## Fili aperti
+- [Fili attivi](#attivo)
+- [Fili inattivi](#inattivo)
+
+---
+
+## Attivo
 
 - [Annessioni ATU](#annessioni-atu)
 - [Gli articoli del Marlow News](#gli-articoli-del-marlow-news)
@@ -14,10 +19,6 @@
 - [Sentiero delle Nebbie](#sentiero-delle-nebbie)
 - [Un topo ci spia](#un-topo-ci-spia)
 - [Zhentarim](#zhentarim)
-
----
-
-## Attivo
 
 ### Annessioni ATU
 
@@ -212,6 +213,13 @@
 
 ## Inattivo
 
+- [Gli elfling Lyrin e Belma](#gli-elfling-lyrin-e-belma)
+- [Il medaglione delle ossa](#il-medaglione-delle-ossa)
+- [Il nobile farabutto](#il-nobile-farabutto)
+- [La storia del popolo Elfling](#la-storia-del-popolo-elfling)
+- [La storia della Guerra di Enebor](#la-storia-della-guerra-di-enebor)
+- [Lyria Vandel torna sul palco](#lyria-vandel-torna-sul-palco)
+
 ### Gli elfling Lyrin e Belma
 
 **Tracce**
@@ -297,51 +305,3 @@
 
 **Scelte**
 - Verso il concerto di Lyria Vandel
-
----
-
-## Chiuso
-
-### Fuga dall'isola di Sila
-
-**Tracce**
-- Città blindata
-- I sotterranei di Semprosa e l’Efebo
-- La denuncia per furto
-- Marinella come possibile via di fuga dall’isola di Sila
-- Navi GATU risalgono il fiume
-
-**Scelte**
-- Aiutare la carovana nanica
-- Difendere la carovana dai banditi
-- Seguire una strada meno battuta per evitare le pattuglie GATU
-- Valutare la fuga verso Marinella
-- Accettare la proposta di Lyrin, liberare Belma, in cambio di fuga.
-
-### Lupi a Welton
-
-**Tracce**
-- Annuncio caccia ai lupi
-- Dicerie sui lupi scaltri
-- Fumo dalla montagna
-- Tracce dei lupi verso ovest
-- Ululati nel bosco
-- Parla in sogno a Fiamma e Lampo
-- Sirio parla
-- Skinard e il flashback negli occhi di Sirio; Alexi contro gli assassini
-- Accordo stipulato: i lupi ricevono 1 pecora a settimana in inverno, smettono di attaccare le greggi
-- I lupi custodiscono lo scrigno magico e lo scrigno oscuro di Alexi
-- Il patto è sigillato — Lampo stringe l'accordo di persona con Tillus
-- I lupi cedono la Cappa del Lightbringer al gruppo
-
-**Scelte**
-- Accettare Corel come guida
-- Accompagnare i pastori a Welton
-- Catturare Larik Doss
-- Dirigersi verso Welton
-- Evitare lo scontro con l'orsogufo
-- Scassinare Westley Farm
-- Skinard divora un lupo
-- Valutare la taglia sui lupi
-- Il gruppo stipula un accordo di convivenza con i lupi
-- Gli scrigni di Alexi vengono affidati ai lupi

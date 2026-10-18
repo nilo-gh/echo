@@ -12,7 +12,6 @@
 - [Annessioni ATU](#annessioni-atu)
 - [Gli articoli del Marlow News](#gli-articoli-del-marlow-news)
 - [Il medaglione delle ossa](#il-medaglione-delle-ossa)
-- [La forza della GATU](#la-forza-della-gatu)
 - [La scomparsa di Alexi](#la-scomparsa-di-alexi)
 - [La sete del Dhampir](#la-sete-del-dhampir)
 - [La storia della Guerra di Enebor](#la-storia-della-guerra-di-enebor)
@@ -72,17 +71,6 @@
 **Scelte**
 - Aerin raccoglie il medaglione delle ossa.
 - Kolì raccoglie il medaglione dalle spoglie di Aerin
-
-### La forza della GATU
-
-**Tracce**
-- Terremoti di Enebor
-- Qualcuno opera dietro le linee nemiche
-- I terremoti non sono naturali
-
-**Scelte**
-- Soccorrere Torvak sotto le macerie
-- Seguire i nani verso sud invece di unirsi al contrattacco
 
 ### La scomparsa di Alexi
 
@@ -263,6 +251,7 @@
 
 - [Gli elfling Lyrin e Belma](#gli-elfling-lyrin-e-belma)
 - [Il nobile farabutto](#il-nobile-farabutto)
+- [La forza della GATU](#la-forza-della-gatu)
 - [La storia del popolo Elfling](#la-storia-del-popolo-elfling)
 - [Lyria Vandel torna sul palco](#lyria-vandel-torna-sul-palco)
 
@@ -287,6 +276,17 @@
 
 **Scelte**
 - *Nessuna scelta*
+
+### La forza della GATU
+
+**Tracce**
+- Terremoti di Enebor
+- Qualcuno opera dietro le linee nemiche
+- I terremoti non sono naturali
+
+**Scelte**
+- Soccorrere Torvak sotto le macerie
+- Seguire i nani verso sud invece di unirsi al contrattacco
 
 ### La storia del popolo Elfling
 

@@ -50,30 +50,6 @@
 
 ---
 
-## Equipaggiamento
-
-| mr | ma | mo | mp | me |
-|---|---|---|---|---|
-| 0 | 0 | 0 | 0 | 0 |
-
-| Oggetto | Peso | Note |
-| ------------------------------------------ | :----- | ----------------------------------------------------------------- |
-| Armatura di cuoio | 5 kg | |
-| Pugnale ×2 | 1 kg | |
-| Focus arcano | — | Talismà rituale inciso |
-| Registri di spedizione (Tommy Hale) ×3 | 7,5 kg | trovati nell'ufficio (A3S13) — corrispondenza con Aris Thorne |
-| Piede di porco | 2,5 kg | |
-| Martello | 1 kg | |
-| Paletti di legno ×3 | 2 kg | |
-| Simbolo sacro | — | |
-| Manette d'acciaio | — | |
-| Specchio d'acciaio | 0,5 kg | |
-| Ampolla di acquasanta | — | |
-| Ampolla vuota | — | |
-| **Totale** | ~20 kg | |
-
----
-
 ## Narrativa
 
 ### Alleati

@@ -19,21 +19,6 @@ EFFETTI:
 
 Rapiera leggermente incantata, con l'incisione "Segno del Verme", legata agli Zhentarim — "La maggior parte delle persone vede un covo di malattie nel comune ratto, gli Zhentarim vedono un potenziale collega".
 
-## Scheda
-
-| Campo | Valore |
-|---|---|
-| Categoria | Arma marziale |
-| Tipo | mischia |
-| Danno | 1d8 perforante + mod. FOR o DES |
-| Caratteristica | FOR / DES (finesse) |
-| Proprietà | finesse, intingibile |
-| Portata | 1,5 m |
-| Peso | 0,9 kg |
-| Costo | 85 mo |
-| Reperibilità | non comune |
-| Incantamento | +1 |
-
 ## Azioni arma
 
 Richiede competenza, impugnata in mano principale.

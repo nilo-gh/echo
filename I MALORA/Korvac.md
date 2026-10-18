@@ -52,27 +52,6 @@
 
 ---
 
-## Equipaggiamento
-
-| mr | ma | mo | mp | me |
-| --- | --- | --- | --- | --- |
-| 0 | 0 | 100 | 0 | 0 |
-
-| Oggetto | Peso | Valore | Note |
-| --------------------------------- | ------- | ------- | --------------------------------------- |
-| Armatura di cuoio | 5 kg | 10 mo | armatura leggera, AC 11+DES |
-| Spada lunga | 1,5 kg | 15 mo | versatile |
-| Arco lungo | 1 kg | 50 mo | |
-| Faretra + 20 frecce | 0,5 kg | 1 mo | |
-| Coltello | 0,5 kg | 2 mo | lancio, accurata |
-| Anello dell'Oscurità di Larik | — | — | oggetto magico |
-| Anello di Alexi | — | — | tesoro |
-| Pozione di guarigione | 0,25 kg | 50 mo | 2d4+2 PF |
-| Veleno base | — | 100 mo | 1d4 veleno, CD 10 Cos; 1 azione applicare |
-| **Totale** | **8,75 kg** | | trasporto leggero (soglia: 23 kg) |
-
----
-
 ## Narrativa
 
 ### Storia

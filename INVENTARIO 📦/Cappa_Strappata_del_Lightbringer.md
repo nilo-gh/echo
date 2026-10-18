@@ -26,17 +26,6 @@ Pesante cappa di lana bianca, strappata lungo il fianco sinistro — il bordo pe
 
 **Uso dell'Oggetto.** Una volta per riposo breve, chi la indossa può lanciare Luce (trucchetto).
 
-## Scheda
-
-| Campo | Valore |
-|---|---|
-| Tipo | mantello |
-| Peso | 2 |
-| Costo | inestimabile |
-| Reperibilità | unico |
-| Richiede sintonia | ✓ |
-| Effetti | Luce (1/riposo breve), +1 Sopravvivenza |
-
 ## Note
 
 Trovata nella tana dei lupi di Welton, sull'altare dedicato ad Alexi Merriksonn.

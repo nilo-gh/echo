@@ -27,13 +27,3 @@ Striscia costiera lungo il Mare delle Spade, da Neverwinter a nord fino a Baldur
 - **Campi dei Morti** — vasta pianura cimitero di innumerevoli guerre. I colli sono spesso tumuli.
 - **Dorso del Mondo** — catena montuosa invalicabile al confine settentrionale.
 
----
-
-## Fazioni attive
-
-| Fazione | Ruolo |
-|---|---|
-| Alleanza dei Lord | Confederazione delle principali città-stato |
-| Arpisti | Società segreta contro le forze del male |
-| Enclave di Smeraldo | Proteggono l'equilibrio naturale nel Nord |
-| Zhentarim | Rete criminale e spionaggio, in espansione |

@@ -23,17 +23,6 @@ Apparteneva a Larik Doss, una spia catturata dal gruppo ai Capannoni della stazi
 
 **Uso dell'Oggetto.** Una volta per riposo lungo, chi lo indossa può lanciare Oscurità (incantesimo di 2° livello, concentrazione fino a 10 minuti). Non richiede sintonia.
 
-## Scheda
-
-| Campo | Valore |
-|---|---|
-| Tipo | anello |
-| Peso | — |
-| Costo | — |
-| Reperibilità | non comune |
-| Richiede sintonia | ✗ |
-| Effetti | Oscurità 🅒 (1/riposo lungo) |
-
 ## Note
 
 Trovato su Larik Doss durante la cattura ai capannoni della stazione. Sessione: A3S9 — La spia, l'orsogufo e il lupacchiotto.

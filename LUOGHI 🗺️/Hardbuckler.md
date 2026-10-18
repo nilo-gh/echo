@@ -16,20 +16,6 @@ Il nome viene da **Hardbuckler**, un nano avventuriero che sconfisse in questo p
 
 ---
 
-## ⚙️ A colpo d'occhio
-
-| | |
-|---|---|
-| **Regione** | Cuori Occidentali |
-| **Posizione** | Tra Triel e Hill's Edge, sulla Dusk Road |
-| **Popolazione** | ~4.000 |
-| **Composizione** | Gnomi della roccia (maggioranza) + umani, halfling, mezzelfi, nani |
-| **Governo** | Consiglio di Anziani + I Nascosti |
-| **Industria principale** | Stoccaggio sicuro senza fare domande |
-| **Reputazione** | Sicura, pulita, prospera — criminalità quasi nulla |
-
----
-
 ## 🏗️ Spaccato laterale
 
 ![Hardbuckler — spaccato laterale](ALLEGATI/Hardbuckler%20spaccato.jpg)

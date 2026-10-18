@@ -139,24 +139,6 @@ Più in basso, su un pannello separato e ancora parzialmente incompiuto:
 
 ---
 
-## 🪝 Ganci narrativi
-
-| Gancio | Note |
-|---|---|
-| I banditi sui passi | Infestano le vie verso le montagne, bloccano il commercio e l'accesso alle vecchie sale |
-| Le Terme di Milo | A due ore di cammino — acque calde di falda, frequentate nei momenti di riposo. Nessuno ne conosce l'origine o la storia profonda. |
-| La forgia perduta | La Grande Forgia è ancora nelle montagne — chi la tiene, cosa ci fa? |
-| I lavori nella caverna | Perché continuano? Cosa si aspettano di dover ospitare? |
-| Il Canto della Discesa | Tramandato oralmente da un unico custode per generazione — chi è ora? |
-| I Testimoni della Pietra | Le sculture incompiute dei Venuti nel Sogno — i nani non sanno chi siano. Potreste riconoscervi. |
-| Le Rovine di Selina | Sito elfling sull'isola di Sila, vicino a Marinella — la famiglia elfling di Milo ne conosce l'esistenza ma non la storia. |
-| Le famiglie forestiere | Due famiglie umane e una elfling vivono a Milo — radicate, ma mai del tutto nane. Cosa sanno che i nani non sanno? |
-| Il topo che spiava | Un topo (ribattezzato Fievel) manovrato da una magia esterna spiava il campo di notte — catturato vivo ma non interrogabile; chi lo manovrasse resta ignoto, forse legato ad Alexi oltre le nebbie di Trabalus |
-| Le mani di pietra di Bane | Otto mani di pietra scolpite col simbolo di Bane, trovate in un secondo forziere nel bosco — nessuna magia rilevata, ma riconosciute come possibili focus arcani |
-| Il destino di Kyle | Monaco, compagno di Sorin, ferito e disperso durante uno scontro a difesa di una carovana nanica in fuga — il suo volto è scolpito nella Galleria dei Valorosi, nessuna notizia sulla sua sorte |
-
----
-
 ## 👥 PNG al volo
 
 #### 1. ⚒️ Hargrin Slatebeard — Nano anziano · Consiglio dei Barbalunga

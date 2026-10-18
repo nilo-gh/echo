@@ -15,16 +15,6 @@ RICHIEDE_SINTONIA: false
 
 Liuto comune, acquistato per 20 monete d'oro dai nani di Milo. Kolì non lo sapeva ancora suonare — conosce corno, lira e flauto — ma con un'ottima prova di Intrattenere ha imparato i primi accordi in una sola serata: abbastanza per intonare qualche canzone al banchetto.
 
-## Scheda
-
-| Campo | Valore |
-|---|---|
-| Tipo | Strumento musicale |
-| Peso | — |
-| Costo | 20 mo |
-| Reperibilità | comune |
-| Richiede sintonia | — |
-
 ## Note
 
 I nani al banchetto hanno inciso il proprio nome sullo strumento, come ricordo della serata, e una frase: *"La differenza tra un conoscente e un amico è circa cento anni."*

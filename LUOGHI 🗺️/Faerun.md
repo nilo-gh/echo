@@ -11,19 +11,6 @@ Continente centrale di Toril, tra il Mare delle Spade a ovest e le terre di Kara
 
 ---
 
-## Grandi regioni
-
-| Regione | Comprende |
-|---|---|
-| Costa della Spada e il Nord | Neverwinter, Waterdeep, Baldur's Gate, Frontiera Selvaggia |
-| Terre Centrali *(Heartlands)* | Cormyr, Valli, Mare della Luna, Sembia |
-| Terre dell'Intrigo | Amn, Calimshan, Tethyr |
-| Antichi Imperi | Mulhorand, Chessenta, Unther |
-| Terre Fredde | Damara, Narfell, Vaasa, Sossal |
-| Terre del Sud | Chult, Halruaa, Dambrath |
-
----
-
 ## Storia in sintesi
 
 - **~30.000 anni fa** — I Giorni del Tuono: civiltà rettiliane crollano, nasce l'era degli elfi e dei nani.

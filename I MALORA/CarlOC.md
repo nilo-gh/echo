@@ -51,30 +51,6 @@
 
 ---
 
-## Equipaggiamento
-
-| mr | ma | mo | mp | me |
-| --- | --- | --- | --- | --- |
-| 0 | 4 | 144 | 0 | 0 |
-
-| Oggetto | Peso | Note |
-| ------------------- | ------ | ---------------- |
-| Rapiere | 1 kg | accurata |
-| Pugnali (x2) | 1 kg | lancio, accurata |
-| Arco Corto | 1 kg | |
-| Faretra + 20 frecce | 0,5 kg | |
-| Armatura di cuoio | 7,5 kg | CA 11+DES |
-| Scudo | 3 kg | CA +2 |
-| Attrezzi da scasso | 1 kg | |
-| Dadi | — | |
-| Mantello scuro | — | |
-| Gesso | — | |
-| Fune (15 m) | 5 kg | |
-| Libro di alchimia | 1 kg | tesoro |
-| **Totale** | **21 kg** | |
-
----
-
 ## Narrativa
 
 ### Storia

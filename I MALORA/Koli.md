@@ -56,27 +56,6 @@
 
 ---
 
-## Equipaggiamento
-
-| mr | ma | mo | mp | me |
-| --- | --- | --- | --- | --- |
-| 7 | 6 | 30 | 0 | 0 |
-
-| Oggetto | Peso | Valore | Note |
-| ----------------------- | ----------- | ------ | ----------------------------------- |
-| Armatura di cuoio | 5 kg | 10 mo | leggera |
-| Stocco | 1 kg | 25 mo | accurata |
-| Pugnale | 0,5 kg | 2 mo | lancio, accurata |
-| Balestra a mano | 1,5 kg | 75 mo | |
-| Quadrelli (20) | 0,75 kg | 1 mo | |
-| Flauto di selenite | 0,5 kg | 20 mo | bacchetta di selenite di Aerin Mess |
-| Zaino | 2,5 kg | 2 mo | |
-| Borsa da cortigiana | 0,5 kg | 1 mo | accessorio elegante |
-| Anello con opale bianco | — | 30 mo | gioiello personale |
-| **Totale** | **10,5 kg** | | trasporto leggero (soglia: 20 kg) |
-
----
-
 ## Narrativa
 
 ### Storia

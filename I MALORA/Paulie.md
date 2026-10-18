@@ -66,9 +66,6 @@
 2. *PF Interdizione = 2 × Lv. Mago + INT*
 3. *Ricarica = 2 x lv. incantesimo*
 
-| PF Interdizione Arcana | |
-| :--------------------: | :-: |
-
 ### Recupero Arcano
 *1/giorno*
 - [ ] ◆
@@ -87,41 +84,7 @@
 
 ---
 
-## Equipaggiamento
-
-| mr | ma | mo | mp | me |
-| -- | -- | -- | -- | -- |
-| | | 160 | | |
-
-| Oggetto | Peso | Note |
-| --- | --- | --- |
-| Pugnale | 0,5 kg | 1d4 P, gittata 6/18 m |
-| Orologio da taschino | — | *Deus ex machina* — fuoco arcano |
-| Libro Incantesimi | 1,5 kg | |
-| Libro di studio | 2,5 kg | |
-| Boccetta d'inchiostro + pennino | — | |
-| 10 fogli di pergamena | — | |
-| Sacchetto di sabbia | 0,5 kg | |
-| Coltellino | — | |
-| Tenda | 9 kg | |
-| Torcia | 0,5 kg | |
-| Giaciglio | 3,5 kg | |
-| 10 razioni | 5 kg | |
-| Borraccia | 2,5 kg | |
-| **Totale** | **~25,5 kg** | |
-
----
-
 ## Caratteristiche
-
-| Punteggi | | Tiri Salvezza | |
-| --- | --- | --- | --- |
-| Forza | 9 (−1) | Forza | −1 |
-| Destrezza | 16 (+3) | Destrezza | +3 |
-| Costituzione | 16 (+3) | Costituzione | +3 |
-| Intelligenza | 17 (+3) | Intelligenza | +5 ● |
-| Saggezza | 14 (+2) | Saggezza | +4 ● |
-| Carisma | 11 (0) | Carisma | 0 |
 
 **CA** 13 · **PF** 17 · **Velocità** 9 m · **Bonus Competenza** +2 · **Iniziativa** +3
 

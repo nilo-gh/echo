@@ -86,31 +86,6 @@
 
 ---
 
-## Equipaggiamento
-
-| mr | ma | mo | mp | me |
-| --- | --- | --- | --- | --- |
-| 0 | 0 | 110 | 0 | 0 |
-
-| Oggetto | Peso | Valore | Note |
-| ------------------------------------ | ------------ | ------ | --------- |
-| Scimitarra | 1,5 kg | | |
-| Scudo | 3 kg | | |
-| Cappa Strappata del Lightbringer | 1,5 kg | | indossata |
-| Abiti comuni | 1,5 kg | | |
-| Scrigno oscuro | — | | |
-| Zaino | 2,5 kg | | |
-| Sacco a pelo | 3,5 kg | | |
-| Gavetta | 0,5 kg | | |
-| Acciarino e pietra focaia | 0,5 kg | | |
-| Otre | 2,5 kg | | |
-| Corda di canapa (15 m) | 5 kg | | |
-| Torce ×10 | 5 kg | | |
-| Razioni ×19 | 9,5 kg | | |
-| **Totale** | **~35,5 kg** | | |
-
----
-
 ## Narrativa
 
 ### Alleati

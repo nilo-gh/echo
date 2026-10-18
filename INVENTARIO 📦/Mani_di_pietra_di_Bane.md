@@ -9,6 +9,8 @@ RICHIEDE_SINTONIA: false
 
 *Otto mani di pietra, un solo simbolo — e nessuna risposta.*
 
+![Mani di pietra di Bane](ALLEGATI/forziere_con_le_mani_di_Bane.jpeg)
+
 Otto piccole mani scolpite in pietra, ciascuna con un piccolo triangolo al centro. Un tiro su Religione ha rivelato il simbolo: il marchio del dio **Bane**, divinità della tirannia.
 
 ## Scheda

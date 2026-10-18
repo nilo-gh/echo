@@ -13,6 +13,8 @@ EFFETTI:
 
 *Alcuni gioielli attirano sguardi. Questo li inghiotte.*
 
+![Anello dell'Oscurità](ALLEGATI/Anello_dell'Oscurità.jpeg)
+
 ## Descrizione
 
 Anello di metallo scuro, privo di incisioni. Non ha nulla che lo distingua da un comune monile — tranne l'assenza di riflessi, come se la luce lo evitasse deliberatamente.
